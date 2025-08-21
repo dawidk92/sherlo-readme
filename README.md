@@ -2,10 +2,12 @@
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-      <img src="./assets/logo-light.svg" alt="Sherlo" width="200" />
+      <img src="./assets/logo-light.svg" alt="Sherlo" width="154" height="42" />
     </picture>
   </a>
 </div>
+
+<br />
 
 <div align="center">
   <img src="./assets/sherlo.gif" alt="XXXXXXX" />
