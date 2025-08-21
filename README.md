@@ -18,7 +18,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/sherlo.gif" alt="XXXXXXX" width="780" />
+  <img src="./assets/sherlo.gif" alt="XXXXXXX" />
 </div>
 
 # Sherlo
