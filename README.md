@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
+  <img src="./assets/sherlo.gif" alt="XXXXXXX" />
 </div>
 
 ## ✨ Key Benefits
@@ -24,3 +24,7 @@
 - **🤝 Team-Friendly Review** — One web app, for your whole team - review visual changes together
 - **✅ Ship with Confidence** — Merge with peace of mind - know exactly what changed, every time
 - **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI change, caught for you
+
+<div align="center">
+  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
+</div>
