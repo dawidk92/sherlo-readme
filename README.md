@@ -14,7 +14,12 @@
   <em>Visual testing & review tool • Storybook integration • Free early access 🎉</em>
 </p> -->
 
-<p align="center">React Native visual testing & review tool • Storybook integration • Free early access 🎉</p>
+<!-- <p align="center">React Native visual testing & review tool • Storybook integration • Free early access 🎉</p> -->
+
+<p align="center">
+  <strong>React Native visual testing & review tool</strong><br/>
+  <em>Storybook integration • Free early access 🎉</em>
+</p>
 
 <br />
 
