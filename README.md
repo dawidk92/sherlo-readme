@@ -1,11 +1,11 @@
-<h1 align="center">
+<div align="center">
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
       <img src="./assets/logo-light.svg" alt="Sherlo" width="200" />
     </picture>
   </a>
-</h1>
+</div>
 
 <div align="center">
   <img src="./assets/sherlo.gif" alt="XXXXXXX" />
