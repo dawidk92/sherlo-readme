@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center">Visual testing & review tool for React Native <em>(Storybook)</em></p>
+<p align="center">Visual testing & review tool for React Native</p>
 
 <br />
 
