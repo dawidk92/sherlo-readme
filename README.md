@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>
-  <em>Visual testing & review • Integracja ze Storybookiem • Darmowa beta 🎉</em>
+  <em>Visual testing & review tool • Storybookiem integration • Free early access 🎉</em>
 </p>
 
 <br />
