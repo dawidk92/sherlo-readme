@@ -7,6 +7,8 @@
   </a>
 </div>
 
+<p align="center">Visual Testing & Review Tool for React Native <i>Storybook</i></p>
+
 <br />
 
 <div align="center">
