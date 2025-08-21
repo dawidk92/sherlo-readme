@@ -17,7 +17,7 @@
 <!-- <p align="center">React Native visual testing & review tool • Storybook integration • Free early access 🎉</p> -->
 
 <p align="center">
-  <strong>Visual testing & review tool designed for React Native</strong><br/>
+  <strong>Visual testing & review tool for React Native</strong><br/>
   <em>Storybook integration • Free early access 🎉</em>
 </p>
 
