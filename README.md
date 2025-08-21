@@ -1,8 +1,8 @@
-<h1 style="display: flex; justify-content: center;">
+<h1 align="center">
   <a href="https://sherlo.io/">
-    <picture style="aspect-ratio: 77/21; width: 100%;">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-      <img src="./assets/logo-light.svg" alt="Sherlo" />
+      <img src="./assets/logo-light.svg" alt="Sherlo" width="200 />
     </picture>
   </a>
 </h1>
