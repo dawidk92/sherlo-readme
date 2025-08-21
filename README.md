@@ -9,10 +9,12 @@
 
 <!-- <p align="center">Visual testing & review tool for React Native</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>
-  <em>Visual testing & review tool • Storybookiem integration • Free early access 🎉</em>
-</p>
+  <em>Visual testing & review tool • Storybook integration • Free early access 🎉</em>
+</p> -->
+
+<p align="center">React Native visual testing & review tool • Storybook integration • Free early access 🎉</p>
 
 <br />
 
