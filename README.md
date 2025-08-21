@@ -1,3 +1,21 @@
+<p align="center">
+  <a href="https://sherlo.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+      <img src="./assets/logo-light.svg" alt="Sherlo" width="200" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>
+  <em>Visual testing & review • Integracja ze Storybookiem • Darmowa beta 🎉</em>
+</p>
+
+<div align="center">
+  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
+</div>
+
 ## ✨ Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed - with pixel precision
