@@ -7,7 +7,12 @@
   </a>
 </p>
 
-<p align="center">Visual testing & review tool for React Native</p>
+<!-- <p align="center">Visual testing & review tool for React Native</p> -->
+
+<p align="center">
+  <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>
+  <em>Visual testing & review • Integracja ze Storybookiem • Darmowa beta 🎉</em>
+</p>
 
 <br />
 
