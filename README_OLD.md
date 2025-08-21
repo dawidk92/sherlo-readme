@@ -1,11 +1,11 @@
-<h1 style="display: flex; justify-content: center;">
+<p align="center">
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
       <img src="./assets/logo-light.svg" alt="Sherlo" width="200" />
     </picture>
   </a>
-</h1>
+</p>
 
 <p align="center">
   <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>

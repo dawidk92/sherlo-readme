@@ -1,11 +1,11 @@
-<p align="center">
+<h1 style="display: flex; justify-content: center;">
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-      <img src="./assets/logo-light.svg" alt="Sherlo" width="200" />
+      <img src="./assets/logo-light.svg" alt="Sherlo" width="77" />
     </picture>
   </a>
-</p>
+</h1>
 
 <div align="center">
   <img src="./assets/sherlo.gif" alt="XXXXXXX" />
