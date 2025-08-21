@@ -10,6 +10,14 @@
 <br />
 
 <div align="center">
+    <picture>
+        <img src="./assets/sherlo.gif" alt="XXXXXXX" width="780" height="500" />
+    </picture>
+</div>
+
+<br />
+
+<div align="center">
   <img src="./assets/sherlo.gif" alt="XXXXXXX" width="780" height="500" />
 </div>
 
