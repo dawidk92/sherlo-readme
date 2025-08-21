@@ -1,13 +1,13 @@
-<div align="center">
+<p align="center">
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
       <img src="./assets/logo-light.svg" alt="Sherlo" width="154" />
     </picture>
   </a>
-</div>
+</p>
 
-<p align="center">Visual Testing & Review Tool for React Native <i>Storybook</i></p>
+<p align="center">Visual testing & review tool for React Native <em>(Storybook)</em></p>
 
 <br />
 
