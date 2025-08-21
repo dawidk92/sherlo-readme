@@ -5,11 +5,9 @@
       <img src="./assets/logo-light.svg" alt="Sherlo" width="154" />
     </picture>
   </a>
-</div>
-
-<br />
-
-<div align="center">
+  
+  <br />
+  
   <img src="./assets/sherlo.gif" alt="XXXXXXX" width="780" />
 </div>
 
