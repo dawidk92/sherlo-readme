@@ -79,7 +79,7 @@ Jedna komenda, która integruje Sherlo z Twoim projektem.
 
 ---
 
-## 6. Nowy w Storybook?
+## 6. Nowy w Storybook? / WHY STORYBOOK?
 
 **Storybook** to playground do budowania i dokumentowania komponentów w izolacji (80 000+ devów dziennie).  
 **Storybook + Sherlo = idealny feedback loop** ⚡

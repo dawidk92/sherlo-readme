@@ -2,34 +2,17 @@
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-      <img src="./assets/logo-light.svg" alt="Sherlo" width="160" />
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="180" />
     </picture>
   </a>
 </p>
 
-<!-- <p align="center">Visual testing & review tool for React Native</p> -->
-
-<!-- <p align="center">
-  <strong>„Pixel-perfect React Native bez ręcznego klikania po emulatorach”</strong><br/>
-  <em>Visual testing & review tool • Storybook integration • Free early access 🎉</em>
-</p> -->
-
-<!-- <p align="center">React Native visual testing & review tool • Storybook integration • Free early access 🎉</p> -->
-
-<!-- <p align="center">
-  <strong>Visual testing & review tool for React Native</strong><br/>
-  <em>Storybook integration • Free early access 🎉</em>
-</p> -->
-
-<p align="center">
-  <strong>Visual testing & review tool for React Native</strong> <em>Storybook</em><br/>
-  <em>Free early access 🎉</em>
-</p>
+<p align="center">Visual Testing & Review Tool for React Native Storybook</p>
 
 <br />
 
 <div align="center">
-  <img src="./assets/sherlo.gif" alt="XXXXXXX" width="780" />
+  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
 </div>
 
 # Sherlo
