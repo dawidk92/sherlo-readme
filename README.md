@@ -7,6 +7,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://sherlo.io/">
+    <picture>
+    <source media="(max-width: 480px)" srcset="./assets/logo-dark.svg" width="120">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="180">
+    <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="120">
+    <img src="./assets/logo-light.svg" alt="Sherlo logo" width="180" />
+    </picture>
+  </a>
+</p>
+
 <p align="center">Visual Testing & Review Tool for React Native Storybook</p>
 
 <br />
