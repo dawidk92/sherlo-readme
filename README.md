@@ -1,15 +1,6 @@
 <p align="center">
   <a href="https://sherlo.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="180" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sherlo.io/">
-    <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./assets/logo-dark.svg" width="140">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="180">
       <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
@@ -22,6 +13,7 @@
 
 <br />
 
+<!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
   <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
 </div>
@@ -29,6 +21,33 @@
 # Sherlo
 
 Sherlo is a Cloud-based Visual Testing and Review Tool that integrates with React Native Storybook. Designed to detect every change in your UI components, Sherlo empowers your team to confidently release apps with no visual bugs. Discover more on the Sherlo website
+
+<br />
+
+## ✨ Key Benefits
+
+**🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed - with pixel precision
+
+**📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web
+
+**☁️ Visual Testing Cloud** — You build, we test - on cloud infrastructure designed for mobile UI testing
+
+**🤝 Team-Friendly Review** — One web app, for your whole team - review visual changes together
+
+**✅ Ship with Confidence** — Merge with peace of mind - know exactly what changed, every time
+
+**⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI change, caught for you
+
+<br />
+
+## ✨ Key Benefits
+
+**🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed - with pixel precision<br />
+**📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web<br />
+**☁️ Visual Testing Cloud** — You build, we test - on cloud infrastructure designed for mobile UI testing<br />
+**🤝 Team-Friendly Review** — One web app, for your whole team - review visual changes together<br />
+**✅ Ship with Confidence** — Merge with peace of mind - know exactly what changed, every time<br />
+**⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI change, caught for you
 
 <br />
 
