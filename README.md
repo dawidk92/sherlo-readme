@@ -43,7 +43,7 @@ Sherlo is a Cloud-based Visual Testing and Review Tool that integrates with Reac
 ## ✨ Key Benefits
 
 **🖼️ Ensure Pixel Perfection**<br />
-Your UI, exactly as designed - with pixel precision
+  Your UI, exactly as designed - with pixel precision
 
 **📱 Real Mobile Testing**<br />
 Native iOS & Android testing - not browser approximations like React Native Web
