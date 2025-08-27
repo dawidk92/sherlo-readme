@@ -39,7 +39,7 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team - from developers to designers.
 
-### Key Features
+### Features
 
 - **📸 Visual Diff Comparison** — Compare baseline vs current with highlighted differences
 - **👥 Team Review Workflow** — Approve or reject changes with contextual comments
