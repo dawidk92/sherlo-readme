@@ -91,8 +91,8 @@ npx sherlo@latest init
 
 1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
 
-2. **🔍 Compare** – Screenshots are compared against your baseline to detect visual changes
+2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
 
-3. **👀 Review** – Your team reviews and approves changes in the web app
+3. **👀 Review** – Your team reviews visual changes before they go live
 
-4. **✅ Merge** – Deploy with confidence knowing your UI looks perfect
+4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
