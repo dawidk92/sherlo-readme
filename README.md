@@ -32,7 +32,6 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 - **🤝 Team-Friendly Review** — One web app for your whole team
 - **✅ Ship with Confidence** — Merge with peace of mind - see exactly what changed
 - **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI update caught automatically
-- **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI update caught for you
 
 <br />
 
