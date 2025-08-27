@@ -41,6 +41,8 @@ Sherlo app shows visual diffs across iOS & Android devices and lets your team re
 
 Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team.
 
+Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team - from developers to designers.
+
 Compare your UI across devices and review changes before release. One web app for your whole team - from developers to designers.
 
 ### Key actions
