@@ -32,6 +32,16 @@ Automatically test your React Native Storybook UI on iOS and Android in the clou
 
 Automatically test your React Native Storybook on iOS and Android in the cloud.
 
+Test your UI on iOS and Android automatically in the cloud. Designed to work with React Native Storybook.
+
+Test your UI on iOS and Android automatically in the cloud. Designed for React Native Storybook.
+
+Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
+
+Test your UI on iOS and Android automatically in the cloud. Built specifically for React Native Storybook.
+
+Test your UI on iOS and Android automatically in the cloud. Made for React Native Storybook.
+
 <!-- Sherlo is a Cloud-based Visual Testing and Review Tool that integrates with React Native Storybook. Designed to detect every change in your UI components, Sherlo empowers your team to confidently release apps with no visual bugs. Discover more on the Sherlo website -->
 
 ### Key Benefits
