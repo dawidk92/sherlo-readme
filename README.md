@@ -27,9 +27,7 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 ### Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed
-- **📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web
 - **📱 Real Mobile Testing** — Native iOS & Android testing - not web-based solutions like React Native Web
-- **📱 Real Mobile Testing** — Native iOS & Android testing - not web browser approximations
 - **☁️ Visual Testing Cloud** — You build, we test - on cloud infrastructure built for mobile testing
 - **☁️ Visual Testing Cloud** — You build, we test - on specialized cloud infrastructure for mobile
 - **☁️ Visual Testing Cloud** — You build, we test - on our cloud infrastructure for mobile
