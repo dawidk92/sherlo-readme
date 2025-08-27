@@ -45,7 +45,7 @@ Review visual changes across iOS and Android devices in one web app. Compare scr
 - **👥 Team Review Workflow** — Approve or reject changes with contextual comments
 - **🔍 Code Inspector** — Inspect React Native styles directly in the browser
 - **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
-- **…and much more**
+- **…and more**
 
 🚀 **[Try the Demo](https://app.sherlo.io/demo)** — See Sherlo in action with real examples
 
