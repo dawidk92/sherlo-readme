@@ -44,7 +44,9 @@ Review visual changes across devices in one web app as a team - from developers 
 ### Features
 
 - **📸 Visual Diff Comparison** — Compare before/after screenshots with highlighted changes
-- **✅ Team Review** — Approve or reject changes with comments
+- **👍 Change Approval** — Approve or reject changes with comments
+- **📋 Change Approval** — Approve or reject changes with comments
+- **👀 Change Approval** — Approve or reject changes with comments
 - **🔍 Code Inspector** — Inspect React Native styles directly in the browser
 - **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
 - **…and more**
