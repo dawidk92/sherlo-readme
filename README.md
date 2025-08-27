@@ -41,14 +41,15 @@ Review visual changes across iOS and Android devices in one web app. Compare scr
 
 ### Features
 
-- 📸 **Visual Diff Comparison** — Compare baseline vs current with highlighted differences
 - **📸 Visual Diff Comparison** — Compare baseline vs current with highlighted differences
+- **📸 Visual Diff Comparison** — Compare before/after screenshots with highlighted changes
 - **👥 Team Review Workflow** — Approve or reject changes with contextual comments
+- **✅ Review & Approval** — Approve or reject changes with inline comments
 - **🔍 Code Inspector** — Inspect React Native styles directly in the browser
 - **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
 - **…and more**
 
-🚀 **[Try the Demo](https://app.sherlo.io/demo)** — See Sherlo in action with real examples
+**🚀 [Try the Demo](https://app.sherlo.io/demo)** — See Sherlo in action with real examples
 
 <br />
 
