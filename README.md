@@ -57,3 +57,22 @@ Review visual changes across devices in one web app as a team - from developers 
 </div>
 
 <br />
+
+## Quick Setup
+
+```bash
+npx sherlo@latest init
+```
+
+**Configure your devices:**
+
+```json
+{
+  "devices": [
+    { "id": "iphone.15.pro", "osVersion": "17" },
+    { "id": "pixel.7", "osVersion": "13" }
+  ]
+}
+```
+
+**[Complete setup guide →](https://docs.sherlo.io/setup)**
