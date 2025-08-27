@@ -2,9 +2,9 @@
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./assets/logo-dark.svg" width="140">
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="168">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="176">
       <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
-      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="168" />
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
     </picture>
   </a>
 </p>
