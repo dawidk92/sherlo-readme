@@ -37,8 +37,6 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 ## Web App + Demo
 
-Review visual changes across devices in one web app. Perfect for teams - from developers to designers.
-
 Review visual changes across devices in one web app as a team - from developers to designers.
 
 ### Features
