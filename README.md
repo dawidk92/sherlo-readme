@@ -60,7 +60,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Quick Setup
 
-Get started with one command:
+1️⃣ Get started with one command:
 
 ```bash
 npx sherlo@latest init
@@ -68,7 +68,7 @@ npx sherlo@latest init
 
 <br />
 
-Optionally change your [test devices](https://docs.sherlo.io/setup/config#devices):
+2️⃣\* Then optionally change your [testing devices](https://docs.sherlo.io/setup/config#devices):
 
 ```json
 [
@@ -79,8 +79,8 @@ Optionally change your [test devices](https://docs.sherlo.io/setup/config#device
 
 <br />
 
-Run your [testing command](https://docs.sherlo.io/setup/testing#testing-commands) and you're done!
+3️⃣ Finally, run chosen [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
 
 <br />
 
-**[Full documentation →](https://docs.sherlo.io/setup)**
+**[See full documentation →](https://docs.sherlo.io/setup)**
