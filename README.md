@@ -58,7 +58,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-## Getting Started
+## Quick Start
 
 1. Install Sherlo:
 
