@@ -22,7 +22,7 @@
 
 # Sherlo
 
-Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
+Test your UI on iOS and Android automatically in the cloud. _Built for React Native Storybook._
 
 ### Key Benefits
 
