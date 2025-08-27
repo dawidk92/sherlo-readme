@@ -42,7 +42,6 @@ Review visual changes across iOS and Android devices in one web app. Compare scr
 ### Features
 
 - **📸 Visual Diff Comparison** — Compare before/after screenshots with highlighted changes
-- **👥 Team Review** — Approve or reject changes with contextual comments
 - **👍 Team Review** — Approve or reject changes with comments
 - **🔍 Code Inspector** — Inspect React Native styles directly in the browser
 - **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
