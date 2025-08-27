@@ -26,7 +26,7 @@ Sherlo is a visual testing and review tool that integrates with React Native Sto
 
 <!-- Sherlo is a Cloud-based Visual Testing and Review Tool that integrates with React Native Storybook. Designed to detect every change in your UI components, Sherlo empowers your team to confidently release apps with no visual bugs. Discover more on the Sherlo website -->
 
-## Key Benefits
+### Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed - with pixel precision
 - **📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web
@@ -53,7 +53,7 @@ Sherlo is a visual testing and review tool that integrates with React Native Sto
 
 <br /> -->
 
-## Web App + Demo
+## 🖥️ Web App + Demo
 
 Sherlo app shows visual diffs across iOS & Android devices and lets your team review them before release.
 
