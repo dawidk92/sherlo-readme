@@ -66,6 +66,8 @@ Get started with one command:
 npx sherlo@latest init
 ```
 
+<br />
+
 Optionally change your [test devices](https://docs.sherlo.io/setup/config#devices):
 
 ```json
@@ -75,6 +77,10 @@ Optionally change your [test devices](https://docs.sherlo.io/setup/config#device
 ]
 ```
 
+<br />
+
 Run your [testing command](https://docs.sherlo.io/setup/testing#testing-commands) and you're done!
+
+<br />
 
 **[Full documentation →](https://docs.sherlo.io/setup)**
