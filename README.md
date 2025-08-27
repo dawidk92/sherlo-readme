@@ -24,6 +24,10 @@
 
 Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
 
+Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team.
+
+Compare your UI across devices and review changes before release. One web app for your whole team - from developers to designers.
+
 ### Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed
