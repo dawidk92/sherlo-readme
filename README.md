@@ -60,31 +60,21 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Quick Setup
 
-```npx
-npx sherlo@latest init
-```
-
-```npm
-npx sherlo@latest init
-```
+Get started with one command:
 
 ```bash
 npx sherlo@latest init
 ```
 
-```node
-npx sherlo@latest init
-```
-
-**Configure your devices:**
+Optionally change your [test devices](https://docs.sherlo.io/setup/config#devices):
 
 ```json
-{
-  "devices": [
-    { "id": "iphone.15.pro", "osVersion": "17" },
-    { "id": "pixel.7", "osVersion": "13" }
-  ]
-}
+[
+  { "id": "iphone.15.pro", "osVersion": "17" },
+  { "id": "pixel.7", "osVersion": "13" }
+]
 ```
 
-**[Complete setup guide →](https://docs.sherlo.io/setup)**
+Run your [testing command](https://docs.sherlo.io/setup/testing#testing-commands) and you're done!
+
+**[Full documentation →](https://docs.sherlo.io/setup)**
