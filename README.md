@@ -41,30 +41,7 @@ Review visual changes across iOS and Android devices in one web app. Compare scr
 
 ### Features
 
-- **Visual Diff Comparison** — Compare baseline vs current with highlighted differences
-- **Team Review Workflow** — Approve or reject changes with contextual comments
-- **Code Inspector** — Inspect React Native styles directly in the browser
-- **Figma Integration** — Compare UI with Figma designs side-by-side
-- **…and more**
-
-🚀 **[Try the Demo](https://app.sherlo.io/demo)** — See Sherlo in action with real examples
-
-<br />
-
-<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
-<div align="center">
-  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
-</div>
-
-<br />
-
-## 🖥️ Web App + Demo
-
-Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team - from developers to designers.
-
-### Key Features
-
-- **📸 Visual Diff Comparison** — Compare baseline vs current with highlighted differences
+- 📸 **Visual Diff Comparison** — Compare baseline vs current with highlighted differences
 - **👥 Team Review Workflow** — Approve or reject changes with contextual comments
 - **🔍 Code Inspector** — Inspect React Native styles directly in the browser
 - **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
