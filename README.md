@@ -58,9 +58,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-## Quick Setup
+## Getting Started
 
-1. Get started with one command:
+1. Install Sherlo:
 
 ```bash
 npx sherlo@latest init
