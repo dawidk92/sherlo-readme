@@ -26,12 +26,12 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 ### Key Benefits
 
-- **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed
-- **📱 Real Mobile Testing** — Native iOS & Android testing - not web-based solutions like React Native Web
-- **☁️ Visual Testing Cloud** — You build, we test - on infrastructure built specifically for mobile UI testing
-- **🤝 Team-Friendly Review** — One web app for your whole team
-- **✅ Ship with Confidence** — Merge with peace of mind - see exactly what changed
-- **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI update caught automatically
+- **🖼️ Ensure Pixel Perfection** - Your UI, exactly as designed
+- **📱 Real Mobile Testing** - Native iOS & Android testing - not web-based solutions like React Native Web
+- **☁️ Visual Testing Cloud** - You build, we test - on infrastructure built specifically for mobile UI testing
+- **🤝 Team-Friendly Review** - One web app for your whole team
+- **✅ Ship with Confidence** - Merge with peace of mind - see exactly what changed
+- **⏱️ Save Manual QA Hours** - Forget device-by-device checks - every UI update caught automatically
 
 <br />
 
@@ -41,10 +41,10 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ### Features
 
-- **📸 Visual Diff Comparison** — Compare before/after screenshots with highlighted changes
-- **💬 Team Feedback** — Approve or reject changes with comments
-- **🔍 Code Inspector** — Inspect React Native styles directly in the browser
-- **🎨 Figma Integration** — Compare UI with Figma designs side-by-side
+- **📸 Visual Diff Comparison** - Compare before/after screenshots with highlighted changes
+- **💬 Team Feedback** - Approve or reject changes with comments
+- **🔍 Code Inspector** - Inspect React Native styles directly in the browser
+- **🎨 Figma Integration** - Compare UI with Figma designs side-by-side
 - **…and more**
 
 **🚀 [Try the Demo](https://app.sherlo.io/demo)** to see these features in action
@@ -53,7 +53,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
 <div align="center">
-  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
+  <img src="./assets/app.webp" alt="Sherlo - podgląd aplikacji" />
 </div>
 
 <br />
@@ -89,10 +89,10 @@ npx sherlo@latest init
 
 ## How It Works
 
-1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
+1. **📸 Capture** - Sherlo runs your Storybook stories on iOS and Android simulators
 
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
+2. **🔍 Compare** - Screenshots are compared against previous versions to detect visual changes
 
-3. **👀 Review** – Your team reviews visual changes before they go live
+3. **👀 Review** - Your team reviews visual changes before they go live
 
-4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
+4. **🚢 Ship** - Deploy with confidence knowing your UI is rock-solid
