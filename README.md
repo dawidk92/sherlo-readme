@@ -26,6 +26,19 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 ### Key Benefits
 
+- **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed
+- **📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web
+- **☁️ Visual Testing Cloud** — You build, we test - on specialized cloud infrastructure for mobile UI testing
+- **🤝 Team-Friendly Review** — One web app, for your whole team - review visual changes together
+- **✅ Ship with Confidence** — Merge with peace of mind - know exactly what changed
+- **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI change caught automatically
+
+# Sherlo
+
+Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
+
+### Key Benefits
+
 - **🖼️ Ensure Pixel Perfection** — Your UI, exactly as designed - with pixel precision
 - **📱 Real Mobile Testing** — Native iOS & Android testing - not browser approximations like React Native Web
 - **☁️ Visual Testing Cloud** — You build, we test - on cloud infrastructure designed for mobile UI testing
