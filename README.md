@@ -2,9 +2,9 @@
   <a href="https://sherlo.io/">
     <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./assets/logo-dark.svg" width="140">
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="180">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="168">
       <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
-      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="180" />
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="168" />
     </picture>
   </a>
 </p>
@@ -66,6 +66,7 @@ Sherlo app shows visual diffs across iOS & Android and lets your team review the
 
 👉 [Open Demo](https://app.sherlo.io/demo)
 
+<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
 <div align="center">
   <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
 </div>
