@@ -72,12 +72,7 @@ Then optionally change your [testing devices](https://docs.sherlo.io/setup/confi
 
 ```json
 [
-  {
-    "id": "iphone.15.pro",
-    "osVersion": "17",
-    "osTheme": "light",
-    "osLocale": "en_US"
-  },
+  { "id": "iphone.15.pro", "osVersion": "17" },
   { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "pl_PL" }
 ]
 ```
