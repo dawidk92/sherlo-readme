@@ -60,7 +60,19 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Quick Setup
 
+```npx
+npx sherlo@latest init
+```
+
+```npm
+npx sherlo@latest init
+```
+
 ```bash
+npx sherlo@latest init
+```
+
+```node
 npx sherlo@latest init
 ```
 
