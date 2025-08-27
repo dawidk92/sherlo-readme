@@ -68,7 +68,7 @@ npx sherlo@latest init
 
 <br />
 
-2\*) Then optionally change your [testing devices](https://docs.sherlo.io/setup/config#devices):
+2. Then optionally\* change your [testing devices](https://docs.sherlo.io/setup/config#devices):
 
 ```json
 [
