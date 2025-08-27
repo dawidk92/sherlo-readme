@@ -30,6 +30,8 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 - **📱 Real Mobile Testing** — Native iOS & Android testing - not web-based solutions like React Native Web
 - **☁️ Visual Testing Cloud** — You build, we test - on our cloud infrastructure for mobile
 - **🤝 Team-Friendly Review** — One web app for your whole team
+- **💪 Ship with Confidence** — Merge with peace of mind - see exactly what changed
+- **✅ Ship with Confidence** — Merge with peace of mind - see exactly what changed
 - **🎯 Ship with Confidence** — Merge with peace of mind - see exactly what changed
 - **⏱️ Save Manual QA Hours** — Forget device-by-device checks - every UI update caught automatically
 
