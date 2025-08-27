@@ -84,3 +84,12 @@ npx sherlo@latest init
 <br />
 
 [Full documentation →](https://docs.sherlo.io/setup/integration)
+
+<br />
+
+## How It Works
+
+1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
+2. **🔍 Compare** – Screenshots are compared against your baseline to detect visual changes
+3. **👀 Review** – Your team reviews and approves changes in the web app
+4. **✅ Merge** – Deploy with confidence knowing your UI looks perfect
