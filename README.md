@@ -39,6 +39,24 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 Review visual changes across iOS and Android devices in one web app. Compare screenshots, spot differences, and approve changes as a team - from developers to designers.
 
+- Compare baseline vs current screenshots across multiple devices
+- Team review workflow with comments and approvals
+- Compare UI with Figma designs side-by-side
+- Inspect React Native styles directly in the browser
+
+👉 [Open Demo](https://app.sherlo.io/demo)
+
+<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
+<div align="center">
+  <img src="./assets/app.webp" alt="Sherlo – podgląd aplikacji" />
+</div>
+
+<br />
+
+## 🖥️ Web App + Demo
+
+Sherlo app shows visual diffs across iOS & Android devices and lets your team review them before release.
+
 ### Key actions
 
 - Browse test runs and screenshots per device
