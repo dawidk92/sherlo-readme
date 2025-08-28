@@ -66,12 +66,12 @@ Review visual changes across devices in one web app as a team - from developers 
 npx sherlo@latest init
 ```
 
-#### 2. _Optionally_ customize test [devices](https://docs.sherlo.io/setup/config#devices)
+#### 2. _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices)
 
 ```json
 [
   { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "es_ES" }
+  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
 ]
 ```
 
