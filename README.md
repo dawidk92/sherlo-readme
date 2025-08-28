@@ -68,6 +68,35 @@ npx sherlo@latest init
 
 <br />
 
+Next, _optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
+
+```json
+[
+  { "id": "iphone.15.pro", "osVersion": "17" },
+  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
+]
+```
+
+<br />
+
+Finally, run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - and that's it!
+
+<br />
+
+[Full documentation →](https://docs.sherlo.io/setup/integration)
+
+<br />
+
+## Quick Start
+
+Install Sherlo:
+
+```bash
+npx sherlo@latest init
+```
+
+<br />
+
 _Optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
 
 ```json
