@@ -98,7 +98,7 @@ npx sherlo test
 #### 1. Install Sherlo
 
 ```bash
-npx sherlo@latest init
+npx sherlo init
 ```
 
 <br />
