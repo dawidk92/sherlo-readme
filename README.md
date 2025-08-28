@@ -70,8 +70,13 @@ npx sherlo@latest init
 
 ```json
 [
-  { "id": "iphone.15.pro", "osVersion": "17", "osLocale": "en_GB" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osFontScale": "+1" }
+  { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
+  {
+    "id": "pixel.tablet",
+    "osVersion": "13",
+    "osLocale": "en_GB",
+    "osFontScale": "+1"
+  }
 ]
 ```
 
