@@ -60,6 +60,64 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Quick Start
 
+Install Sherlo:
+
+```bash
+npx sherlo@latest init
+```
+
+<br />
+
+_Optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
+
+```json
+[
+  { "id": "iphone.15.pro", "osVersion": "17" },
+  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
+]
+```
+
+<br />
+
+Run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
+
+<br />
+
+[Full documentation →](https://docs.sherlo.io/setup/integration)
+
+<br />
+
+## Quick Start
+
+Install Sherlo:
+
+```bash
+npx sherlo@latest init
+```
+
+<br />
+
+Then _optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
+
+```json
+[
+  { "id": "iphone.15.pro", "osVersion": "17" },
+  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
+]
+```
+
+<br />
+
+Finally, run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
+
+<br />
+
+[Full documentation →](https://docs.sherlo.io/setup/integration)
+
+<br />
+
+## Quick Start
+
 1. Install Sherlo:
 
 ```bash
