@@ -66,7 +66,7 @@ Review visual changes across devices in one web app as a team - from developers 
 npx sherlo@latest init
 ```
 
-#### 2. _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices)
+#### 2. _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
 
 ```json
 [
@@ -77,37 +77,6 @@ npx sherlo@latest init
     "osLocale": "en_GB",
     "osFontScale": "+1"
   }
-]
-```
-
-#### 3. Run your first test
-
-```bash
-npx sherlo test
-```
-
-🎉 **That's it!** Your visual testing is ready.
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
-#### 1. Install Sherlo
-
-```bash
-npx sherlo@latest init
-```
-
-#### 2. Configure [test devices](https://docs.sherlo.io/setup/config#devices) _(optional)_
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "es_ES" }
 ]
 ```
 
@@ -232,66 +201,6 @@ npx sherlo test
 
 ## Quick Start
 
-1. Install Sherlo:
-
-```bash
-npx sherlo@latest init
-```
-
-<br />
-
-2. _Optionally_ customize your [test devices](https://docs.sherlo.io/setup/config#devices):
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "es_ES" }
-]
-```
-
-<br />
-
-3. Run your [first test](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
-
-🎉 **You're ready to test!**
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
-Install Sherlo:
-
-```bash
-npx sherlo@latest init
-```
-
-<br />
-
-Next, _optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
-]
-```
-
-<br />
-
-Finally, run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - and that's it!
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
 Install Sherlo:
 
 ```bash
@@ -311,7 +220,11 @@ _Optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devi
 
 <br />
 
-Run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
+Run your first test:
+
+```bash
+npx sherlo@latest init
+```
 
 <br />
 
@@ -340,36 +253,11 @@ Then _optionally_ change your [test devices](https://docs.sherlo.io/setup/config
 
 <br />
 
-Finally, run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
-1. Install Sherlo:
+Finally, run your first test:
 
 ```bash
 npx sherlo@latest init
 ```
-
-<br />
-
-2. _Optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "en_GB" }
-]
-```
-
-<br />
-
-3. Run a [testing command](https://docs.sherlo.io/setup/testing#testing-commands) - that's it!
 
 <br />
 
