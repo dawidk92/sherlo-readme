@@ -170,143 +170,13 @@ Storybook helps you **🏗️ build in isolation**, while creating a **📚 livi
 
 ## New to Storybook?
 
-Storybook helps you build UI components in isolation and creates living documentation of your component library.
-
-**✨ Add Sherlo for automatic visual testing across devices**
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Component Development** – Build UI components in isolation without running the full app
-
-**📚 Living Documentation** – Automatic catalog of all your components and their variants
-
-**✨ Visual Testing with Sherlo** – Take your stories and test them across iOS & Android automatically
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-Build UI components in isolation and create living documentation automatically.
-
-**Perfect combo:** Your Storybook stories → Sherlo visual testing ✨
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
 **🏗️ Build in isolation** – No need to run the full app or navigate through screens
 
-**📚 Living docs** – Component library with all variants, created automatically while coding
+**📚 Living docs** – UI library created automatically while coding
 
-**✨ Visual Testing with Sherlo** – Take your stories and test them across iOS & Android
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+**💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
 
 <br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – Component library with all variants, created while coding
-
-**✨ Visual Testing with Sherlo** – Take your stories and test them across iOS & Android automatically
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-Storybook lets you build components without running your full app, plus creates an automatic catalog of all your UI components and their variants.
-
-**💝 Perfect combo:** Your Storybook stories → Sherlo visual testing
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – Component library with all variants, created automatically while coding
-
-<br />
-
-**💝 Perfect combo:** Your Storybook stories → Sherlo visual testing
-
-<br />
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – Component library with all variants, created automatically while coding
-
-**💝 Perfect combo:** Your Storybook stories → Sherlo visual testing
-
-<br />
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app
-
-**📚 Living docs** – Component library with all variants, created automatically while coding
-
-**✨ Add Sherlo = instant visual testing** – Your existing stories become automated UI tests across iOS & Android
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – Component library with all variants, created automatically
-
-**💝 Perfect combo:** Add Sherlo and your stories become automated visual tests
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app
-
-**📚 Living docs** – Component library created automatically while you code
-
-**🚀 Add Sherlo = zero-setup visual testing** – Your stories instantly become automated UI tests
-
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – Component library created automatically while coding
-
-**💝 Perfect combo with Sherlo** – Your stories instantly become automated UI tests
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
 
@@ -318,28 +188,10 @@ Storybook lets you build components without running your full app, plus creates 
 
 **📚 Living docs** – UI library created automatically while coding
 
-**🔥 Perfect with Sherlo** – Your existing stories become automated UI tests across iOS & Android
+**🤝 Team onboarding** – New devs instantly see what components exist and how to use them
 
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
-
-## New to Storybook?
-
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
-
-**📚 Living docs** – UI library created automatically while coding
-
-**💖 Perfect with Sherlo** – Your existing stories become automated UI tests across iOS & Android
-
-**❤️ Perfect with Sherlo** – Your stories automatically become visual tests across iOS & Android
-
-**✨ Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
-
-**🚀 Perfect with Sherlo** – Your existing stories become automated visual tests across iOS & Android
+**💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
 
 <br />
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
-
-<br />
