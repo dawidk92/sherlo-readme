@@ -107,3 +107,11 @@ npx sherlo test
 Storybook helps you build and test UI components in isolation, while creating a living documentation of your component library. Think of it as both a development playground and a catalog showcasing all your button variants, sizes, and states in one place.
 
 **[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)**
+
+<br />
+
+## New to Storybook?
+
+Storybook helps you build and test UI components in isolation - like a development playground and living documentation for your component library.
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
