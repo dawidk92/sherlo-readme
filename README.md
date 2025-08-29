@@ -60,13 +60,13 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Quick Start
 
-#### Install Sherlo
+#### 1) Install Sherlo
 
 ```bash
 npx sherlo@latest init
 ```
 
-#### _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
+#### 2<sup>\*</sup>) _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
 
 ```json
 [
@@ -80,7 +80,7 @@ npx sherlo@latest init
 ]
 ```
 
-#### Run your first test
+#### 3) Run your first test
 
 ```bash
 npx sherlo test
