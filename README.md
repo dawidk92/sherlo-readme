@@ -120,9 +120,9 @@ npx sherlo test
 
 **2)  🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
 
-**3) 👀 Review** – Your team reviews visual changes before they go live
+**3)  👀 Review** – Your team reviews visual changes before they go live
 
-**4) 🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
+**4)  🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
 
 <br />
 
