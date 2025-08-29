@@ -1,12 +1,30 @@
-# Sherlo
+<br />
 
-Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
+<p align="center">
+  <a href="https://sherlo.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./assets/logo-dark.svg" width="140">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="176">
+      <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
+    </picture>
+  </a>
+</p>
 
+<p align="center">Visual Testing & Review Tool for React Native Storybook</p>
+
+<br />
+
+<!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
   <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
 </div>
 
-## Key Benefits
+# Sherlo
+
+Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
+
+### Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** – Your UI, exactly as designed
 - **📱 Real Mobile Testing** – Native iOS & Android testing - not web-based solutions like React Native Web
