@@ -35,6 +35,18 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 <br />
 
+## How It Works
+
+1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
+
+2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
+
+3. **👀 Review** – Your team reviews visual changes before they go live
+
+4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
+
+<br />
+
 ## Web App + Demo
 
 Review visual changes across devices in one web app as a team - from developers to designers.
@@ -87,15 +99,3 @@ npx sherlo test
 <br />
 
 [Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## How It Works
-
-1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
-
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-
-3. **👀 Review** – Your team reviews visual changes before they go live
-
-4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
