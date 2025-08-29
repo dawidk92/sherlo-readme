@@ -161,3 +161,14 @@ npx sherlo test
 | **[GitHub](https://github.com/sherlo-io/sherlo)**    | Source code and issues       | ⭐ Star    |
 
 **📧 Contact:** contact@sherlo.io
+
+---
+
+<p align="center">
+  Made with ❤️ by the Sherlo team
+  <br>
+  <a href="https://sherlo.io">Website</a> • 
+  <a href="https://docs.sherlo.io">Docs</a> • 
+  <a href="https://twitter.com/sherlo_io">Twitter</a> • 
+  <a href="https://discord.gg/sherlo">Discord</a>
+</p>
