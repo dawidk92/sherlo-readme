@@ -143,3 +143,11 @@ Sherlo takes your stories and tests them visually across devices, completing the
 **✨ Sherlo takes your stories and tests them visually across devices** – completing the workflow.
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
+
+## New to Storybook?
+
+Storybook helps you 🏗️ build UI in isolation, while creating a living 📚 documentation of your component library.
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
