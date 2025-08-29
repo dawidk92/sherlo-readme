@@ -112,4 +112,4 @@ npx sherlo test
 
 <br />
 
-[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+[Learn more about Storybook →](https://github.com/storybookjs/react-native)
