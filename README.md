@@ -68,15 +68,11 @@ npx sherlo@latest init
 
 #### 2)<sup>\*</sup> Optionally customize your [test devices](https://docs.sherlo.io/setup/config#devices) _(example)_
 
+<!-- prettier-ignore -->
 ```json
 [
   { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
-  {
-    "id": "pixel.tablet",
-    "osVersion": "13",
-    "osLocale": "en_GB",
-    "osFontScale": "+1"
-  }
+  { "id": "pixel.tablet", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
 ]
 ```
 
