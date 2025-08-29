@@ -108,8 +108,6 @@ npx sherlo test
 
 **📚 Living docs** – UI library created automatically while coding
 
-**🤝 Team onboarding** – New devs instantly see what components exist and how to use them
-
 **💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
 
 <br />
