@@ -139,7 +139,7 @@ npx sherlo@latest init
 
 <br />
 
-_Optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
+_Optionally_ customize your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
 
 ```json
 [
@@ -155,6 +155,8 @@ Run your first test:
 ```bash
 npx sherlo@latest init
 ```
+
+🎉 **That's it!** Your visual testing is ready.
 
 <br />
 
@@ -172,7 +174,7 @@ npx sherlo@latest init
 
 <br />
 
-Then _optionally_ change your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
+Then _optionally_ customize your [test devices](https://docs.sherlo.io/setup/config#devices) (example):
 
 ```json
 [
@@ -186,8 +188,10 @@ Then _optionally_ change your [test devices](https://docs.sherlo.io/setup/config
 Finally, run your first test:
 
 ```bash
-npx sherlo@latest init
+npx sherlo test
 ```
+
+🎉 **That's it!** Your visual testing is ready.
 
 <br />
 
