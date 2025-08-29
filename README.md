@@ -66,7 +66,7 @@ Review visual changes across devices in one web app as a team - from developers 
 npx sherlo@latest init
 ```
 
-#### 2<sup>\*</sup>) _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
+#### 2)<sup>\*</sup> _Optionally_ customize your [test devices](https://docs.sherlo.io/setup/config#devices) (example)
 
 ```json
 [
