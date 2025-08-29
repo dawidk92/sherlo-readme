@@ -318,7 +318,7 @@ Storybook lets you build components without running your full app, plus creates 
 
 **📚 Living docs** – UI library created automatically while coding
 
-**💖 Perfect with Sherlo** – Your existing stories become automated UI tests across iOS & Android
+**🔥 Perfect with Sherlo** – Your existing stories become automated UI tests across iOS & Android
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
 
@@ -331,6 +331,12 @@ Storybook lets you build components without running your full app, plus creates 
 **📚 Living docs** – UI library created automatically while coding
 
 **💖 Perfect with Sherlo** – Your existing stories become automated UI tests across iOS & Android
+
+**❤️ Perfect with Sherlo** – Your stories automatically become visual tests across iOS & Android
+
+**✨ Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
+
+**🚀 Perfect with Sherlo** – Your existing stories become automated visual tests across iOS & Android
 
 <br />
 
