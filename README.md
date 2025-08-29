@@ -148,6 +148,6 @@ Sherlo takes your stories and tests them visually across devices, completing the
 
 ## New to Storybook?
 
-Storybook helps you 🏗️ build UI in isolation, while creating a living 📚 documentation of your component library.
+Storybook helps you **🏗️ build in isolation**, while creating a **📚 living documentation** of your component library. Think of it as both a development playground and a catalog showcasing all your button variants, sizes, and states in one place.
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
