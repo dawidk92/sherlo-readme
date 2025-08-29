@@ -2,7 +2,11 @@
 
 Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
 
-### Key Benefits
+<div align="center">
+  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
+</div>
+
+## Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** – Your UI, exactly as designed
 - **📱 Real Mobile Testing** – Native iOS & Android testing - not web-based solutions like React Native Web
@@ -10,12 +14,6 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 - **🤝 Team-Friendly Review** – One web app for your whole team
 - **✅ Ship with Confidence** – Merge with peace of mind - see exactly what changed
 - **⏱️ Save Manual QA Hours** – Forget device-by-device checks - every UI update caught automatically
-
-<br />
-
-<div align="center">
-  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
-</div>
 
 <br />
 
