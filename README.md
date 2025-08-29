@@ -58,6 +58,18 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
+## How It Works
+
+1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
+
+2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
+
+3. **👀 Review** – Your team reviews visual changes before they go live
+
+4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
+
+<br />
+
 ## Quick Start
 
 #### 1) Install Sherlo
@@ -87,18 +99,6 @@ npx sherlo test
 <br />
 
 [Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## How It Works
-
-1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
-
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-
-3. **👀 Review** – Your team reviews visual changes before they go live
-
-4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
 
 <br />
 
@@ -161,6 +161,44 @@ npx sherlo test
 | **[GitHub](https://github.com/sherlo-io/sherlo)**    | Source code and issues       | ⭐ Star    |
 
 **📧 Contact:** contact@sherlo.io
+
+<br />
+
+## Links
+
+**🚀 [Try Demo](https://app.sherlo.io/demo)** – See visual testing in action  
+**📖 [Documentation](https://docs.sherlo.io/)** – Complete setup guide  
+**🐦 [Follow us on X](https://x.com/sherlo_io)** – React Native tips and updates
+
+**⭐ Star this repo** if Sherlo helps your team ship better UI!  
+**💬 Join our [Discord community](https://discord.com/invite/G7eqTBkWZt)** – 500+ React Native developers  
+**📧 Questions or feedback?** Reach us at contact@sherlo.io
+
+<br />
+
+## Links
+
+**[🚀 Demo](https://app.sherlo.io/demo)** – See it in action  
+**[📖 Docs](https://docs.sherlo.io/)** – Setup guides & API reference  
+**[🐦 Twitter](https://x.com/sherlo_io)** – Updates and React Native tips
+
+---
+
+**Enjoying Sherlo?** ⭐ Star this repo to show support!  
+**Need help?** Join our [Discord](https://discord.com/invite/G7eqTBkWZt) community  
+**Got questions?** Email us at contact@sherlo.io
+
+<br />
+
+## Links
+
+- **[Demo](https://app.sherlo.io/demo)** – Try Sherlo in action
+- **[Documentation](https://docs.sherlo.io/)** – Setup guides
+- **[X/Twitter](https://x.com/sherlo_io)** – Updates & tips
+
+⭐ **Star us on GitHub** if this helps your team!  
+💬 **[Join Discord](https://discord.com/invite/G7eqTBkWZt)** for community support  
+📧 **Contact:** contact@sherlo.io
 
 ---
 
