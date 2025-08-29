@@ -17,7 +17,9 @@
 
 <!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
-  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
+  <kbd>
+    <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
+  </kbd>
 </div>
 
 # Sherlo
