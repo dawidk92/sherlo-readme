@@ -1,4 +1,4 @@
-<!-- <br />
+<br />
 
 <p align="center">
   <a href="https://sherlo.io/">
@@ -15,18 +15,14 @@
 
 <br />
 
-<div align="center">
-  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
-</div> -->
-
-# Sherlo
-
-Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
-
 <!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
   <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
 </div>
+
+# Sherlo
+
+Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
 
 ### Key Benefits
 
