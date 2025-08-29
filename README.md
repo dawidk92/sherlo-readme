@@ -113,3 +113,51 @@ npx sherlo test
 <br />
 
 [Learn more about Storybook →](https://github.com/storybookjs/react-native)
+
+<br />
+
+## Links
+
+**🚀 [Try Demo](https://app.sherlo.io/demo)** – See Sherlo in action  
+**📖 [Documentation](https://docs.sherlo.io/)** – Setup guides and API reference  
+**🌐 [Main Website](https://sherlo.io/)** – Learn more about Sherlo  
+**💬 [Join Discord](https://discord.com/invite/G7eqTBkWZt)** – Get help from the community  
+**🐦 [Follow on X](https://x.com/sherlo_io)** – Latest updates and tips  
+**⭐ [Star on GitHub](https://github.com/sherlo-io/sherlo)** – Support the project
+
+**📧 Questions?** contact@sherlo.io
+
+<br />
+
+## Links
+
+### 🚀 Get Started
+
+- **[Try Demo](https://app.sherlo.io/demo)** – See visual testing in action
+- **[Documentation](https://docs.sherlo.io/)** – Complete setup guide
+- **[Main Website](https://sherlo.io/)** – Pricing and features
+
+### 🤝 Community
+
+- **[Discord](https://discord.com/invite/G7eqTBkWZt)** – Join 500+ developers using Sherlo
+- **[X/Twitter](https://x.com/sherlo_io)** – Updates and React Native tips
+- **[GitHub](https://github.com/sherlo-io/sherlo)** – ⭐ Star us if Sherlo helps your team!
+
+### 📧 Contact
+
+**contact@sherlo.io** – Questions, feedback, or enterprise needs
+
+<br />
+
+## Links
+
+| Resource                                             | Description                  | Action     |
+| ---------------------------------------------------- | ---------------------------- | ---------- |
+| **[Demo](https://app.sherlo.io/demo)**               | See Sherlo in action         | 🚀 Try now |
+| **[Docs](https://docs.sherlo.io/)**                  | Setup guides & API reference | 📖 Read    |
+| **[Website](https://sherlo.io/)**                    | Pricing and features         | 🌐 Visit   |
+| **[Discord](https://discord.com/invite/G7eqTBkWZt)** | Community of 500+ developers | 💬 Join    |
+| **[X/Twitter](https://x.com/sherlo_io)**             | Latest updates and tips      | 🐦 Follow  |
+| **[GitHub](https://github.com/sherlo-io/sherlo)**    | Source code and issues       | ⭐ Star    |
+
+**📧 Contact:** contact@sherlo.io
