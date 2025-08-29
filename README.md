@@ -261,3 +261,41 @@ Storybook lets you build components without running your full app, plus creates 
 <br />
 
 [Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
+
+## New to Storybook?
+
+**🏗️ Build in isolation** – No need to run the full app
+
+**📚 Living docs** – Component library with all variants, created automatically while coding
+
+**✨ Add Sherlo = instant visual testing** – Your existing stories become automated UI tests across iOS & Android
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
+
+## New to Storybook?
+
+**🏗️ Build in isolation** – No need to run the full app or navigate through screens
+
+**📚 Living docs** – Component library with all variants, created automatically
+
+**💝 Perfect combo:** Add Sherlo and your stories become automated visual tests
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
+
+## New to Storybook?
+
+**🏗️ Build in isolation** – No need to run the full app
+
+**📚 Living docs** – Component library created automatically while you code
+
+**🚀 Add Sherlo = zero-setup visual testing** – Your stories instantly become automated UI tests
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
