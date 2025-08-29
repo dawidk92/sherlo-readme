@@ -116,6 +116,20 @@ npx sherlo test
 
 ## New to Storybook?
 
+**🏗️ Build in isolation** – No need to run the full app or navigate through screens
+
+**📚 Living docs** – UI library created automatically while coding
+
+**💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
+
+<br />
+
+[Learn more about Storybook →](https://github.com/storybookjs/react-native)
+
+<br />
+
+## New to Storybook?
+
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
 **📚 Living Docs** – UI library created automatically while coding
