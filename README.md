@@ -129,3 +129,17 @@ Storybook helps you build and test UI components in isolation - like a developme
 Sherlo takes your stories and tests them visually across devices, completing the workflow.
 
 [Learn more →](https://storybook.js.org/docs/react/get-started/introduction)
+
+<br />
+
+## New to Storybook?
+
+**🏗️ Build in isolation** – No need to run the full app or navigate through screens
+
+**📚 Living docs** – Component library with all variants, created automatically while coding
+
+**🤝 Team onboarding** – New devs instantly see what components exist and how to use them
+
+**✨ Sherlo takes your stories and tests them visually across devices** – completing the workflow.
+
+[Learn more about Storybook →](https://storybook.js.org/docs/react/get-started/introduction)
