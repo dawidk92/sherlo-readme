@@ -114,17 +114,15 @@ npx sherlo test
 
 <br />
 
-## New to Storybook?
+## How It Works
 
-**🏗️ Build in isolation** – No need to run the full app or navigate through screens
+**1) 📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
 
-**📚 Living docs** – UI library created automatically while coding
+**2) 🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
 
-**💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
+**3) 👀 Review** – Your team reviews visual changes before they go live
 
-<br />
-
-[Learn more about Storybook →](https://github.com/storybookjs/react-native)
+**4) 🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
 
 <br />
 
