@@ -66,7 +66,7 @@ Review visual changes across devices in one web app as a team - from developers 
 npx sherlo@latest init
 ```
 
-#### 2. _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
+#### 2<sup>\*</sup>. _Optionally_ customize [test devices](https://docs.sherlo.io/setup/config#devices) (example)
 
 ```json
 [
@@ -116,76 +116,6 @@ npx sherlo@latest init
 <br />
 
 3. Run your first test
-
-```bash
-npx sherlo test
-```
-
-🎉 **That's it!** Your visual testing is ready.
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
-#### 1. Install Sherlo
-
-```bash
-npx sherlo init
-```
-
-<br />
-
-#### 2. Configure [test devices](https://docs.sherlo.io/setup/config#devices) _(optional)_
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "es_ES" }
-]
-```
-
-<br />
-
-#### 3. Run your first test
-
-```bash
-npx sherlo test
-```
-
-🎉 **That's it!** Your visual testing is ready.
-
-<br />
-
-[Full documentation →](https://docs.sherlo.io/setup/integration)
-
-<br />
-
-## Quick Start
-
-### 1. Install Sherlo
-
-```bash
-npx sherlo@latest init
-```
-
-<br />
-
-### 2. Configure [test devices](https://docs.sherlo.io/setup/config#devices) _(optional)_
-
-```json
-[
-  { "id": "iphone.15.pro", "osVersion": "17" },
-  { "id": "pixel.7", "osVersion": "13", "osTheme": "dark", "osLocale": "es_ES" }
-]
-```
-
-<br />
-
-### 3. Run your first test
 
 ```bash
 npx sherlo test
