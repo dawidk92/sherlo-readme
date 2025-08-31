@@ -28,9 +28,7 @@
 
 Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
 
-<br />
-
-## How It Works
+### How It Works
 
 1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android simulators
 
@@ -40,9 +38,7 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid
 
-<br />
-
-## Key Benefits
+### Key Benefits
 
 - **🖼️ Ensure Pixel Perfection** – Your UI, exactly as designed
 - **📱 Real Mobile Testing** – Native iOS & Android testing - not web-based solutions like React Native Web
