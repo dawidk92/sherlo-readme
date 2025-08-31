@@ -3,9 +3,9 @@
 <p align="center">
   <a href="https://sherlo.io/">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./assets/logo-dark.svg" width="140">
+      <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/logo-dark.svg" width="140">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="176">
-      <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
+      <source media="(max-width: 500px)" srcset="./assets/logo-light.svg" width="140">
       <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
     </picture>
   </a>
@@ -13,58 +13,16 @@
 
 <p align="center">Visual Testing & Review Tool for React Native Storybook</p>
 
-<!-- <br />
-
-<div align="center">
-  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div> -->
-
 <br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./mobile-dark.gif" width="436">
-    <source media="(max-width: 500px)" srcset="./mobile-light.gif" width="436">
-    <source media="(prefers-color-scheme: dark)" srcset="./desktop-dark.gif" width="560">
-    <img src="./desktop-light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
+    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/mobile-dark.gif" width="436">
+    <source media="(max-width: 500px)" srcset="./assets/mobile-light.gif" width="436">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/desktop-dark.gif" width="560">
+    <img src="./assets/desktop-light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
   </picture>
 </div>
-
-<!-- <br />
-
-<div align="center">
-  <img src="./1.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div> -->
-
-<!-- <br />
-
-<div align="center">
-  <img src="./test.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div> -->
-
-<!-- <br />
-
-<div align="center">
-  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div> -->
-
-<!-- <br />
-
-<div align="center">
-  <img src="./light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./final.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./final-dark-mobile.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="436" />
-</div> -->
 
 # Sherlo
 
