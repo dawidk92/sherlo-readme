@@ -115,6 +115,10 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## New to Storybook?
 
+Sherlo integrates with Storybook - together they create the best workflow for UI development.
+
+Sherlo integrates with Storybook - a perfect match for building and testing UI.
+
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
 **📚 Living Docs** – UI library created automatically while coding
