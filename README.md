@@ -51,6 +51,12 @@
 <br />
 
 <div align="center">
+  <img src="./light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
+</div>
+
+<br />
+
+<div align="center">
   <img src="./final.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
 </div>
 
