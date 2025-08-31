@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<p align="center">Visual Testing & Review Tool for React Native Storybook</p>
+<p align="center">Visual Testing & Review Tool for <nobr>React Native Storybook</nobr></p>
 
 <br />
 
