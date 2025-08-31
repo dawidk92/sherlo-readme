@@ -54,11 +54,11 @@
   <img src="./final.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
 </div>
 
-<!-- <br />
+<br />
 
 <div align="center">
-  <img src="./new-dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div> -->
+  <img src="./final-dark-mobile.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="436" />
+</div>
 
 # Sherlo
 
