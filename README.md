@@ -33,7 +33,7 @@
 <br />
 
 <div align="center">
-  <img src="./test2.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+  <img src="./1.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div>
 
 <!-- <br />
