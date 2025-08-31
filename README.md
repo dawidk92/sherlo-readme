@@ -23,11 +23,15 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./dark-mobile.gif" width="436">
+    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./dark-mobile.gif" width="436">
     <source media="(prefers-color-scheme: dark)" srcset="./dark-desktop.gif" width="600">
-    <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
+    <source media="(max-width: 500px)" srcset="./assets/logo-light.svg" width="140">
     <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
   </picture>
+</div>
+
+<div align="center">
+  <img src="./test.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div>
 
 <!-- <br />
