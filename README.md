@@ -17,10 +17,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/mobile-dark.gif" width="436">
-    <source media="(max-width: 500px)" srcset="./assets/mobile-light.gif" width="436">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/desktop-dark.gif" width="560">
-    <img src="./assets/desktop-light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
+    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/hero-mobile-dark.gif" width="436">
+    <source media="(max-width: 500px)" srcset="./assets/hero-mobile-light.gif" width="436">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-desktop-dark.gif" width="560">
+    <img src="./assets/hero-desktop-light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
   </picture>
 </div>
 
