@@ -46,29 +46,6 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 
 <br />
 
-## Web App + Demo
-
-Review visual changes across devices in one web app as a team - from developers to designers.
-
-### Features
-
-- **📸 Visual Diff Comparison** – Compare before/after screenshots with highlighted changes
-- **💬 Team Feedback** – Approve or reject changes with comments
-- **🔍 Code Inspector** – Inspect React Native styles directly in the browser
-- **🎨 Figma Integration** – Compare UI with Figma designs side-by-side
-- **…and more**
-
-**🚀 [Try the Demo](https://app.sherlo.io/demo)** to see these features in action
-
-<br />
-
-<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
-<div align="center">
-  <img src="./assets/app.webp" alt="Sherlo - podgląd aplikacji" />
-</div>
-
-<br />
-
 ## Quick Start
 
 #### 1) Install Sherlo
@@ -98,6 +75,29 @@ npx sherlo test
 <br />
 
 [Full documentation →](https://docs.sherlo.io/setup/integration)
+
+<br />
+
+## Web App + Demo
+
+Review visual changes across devices in one web app as a team - from developers to designers.
+
+### Features
+
+- **📸 Visual Diff Comparison** – Compare before/after screenshots with highlighted changes
+- **💬 Team Feedback** – Approve or reject changes with comments
+- **🔍 Code Inspector** – Inspect React Native styles directly in the browser
+- **🎨 Figma Integration** – Compare UI with Figma designs side-by-side
+- **…and more**
+
+**🚀 [Try the Demo](https://app.sherlo.io/demo)** to see these features in action
+
+<br />
+
+<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
+<div align="center">
+  <img src="./assets/app.webp" alt="Sherlo - podgląd aplikacji" />
+</div>
 
 <br />
 
