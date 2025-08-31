@@ -66,10 +66,11 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 npx sherlo@latest init
 ```
 
-#### 2)<sup>\*</sup> Optionally customize your [test devices](https://docs.sherlo.io/setup/config#devices) _(example)_
+#### 2)<sup>\*</sup> Optionally customize your [test devices](https://docs.sherlo.io/setup/config#devices)
 
 <!-- prettier-ignore -->
 ```json
+// Example configuration
 [
   { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
   { "id": "pixel.tablet", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
