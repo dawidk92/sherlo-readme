@@ -119,6 +119,12 @@ Sherlo integrates with Storybook - together they create the best workflow for UI
 
 Sherlo integrates with Storybook - a perfect match for building and testing UI.
 
+Storybook + Sherlo = the best workflow for UI development
+
+Storybook + Sherlo = a perfect match for building and testing UI
+
+<br />
+
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
 **📚 Living Docs** – UI library created automatically while coding
