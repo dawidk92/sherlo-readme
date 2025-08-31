@@ -22,15 +22,19 @@
 <br />
 
 <div align="center">
-  <img src="./dark-mobile.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="436" />
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 480px)" srcset="./dark-mobile.gif" width="436">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark-desktop.gif" width="600">
+    <source media="(max-width: 480px)" srcset="./assets/logo-light.svg" width="140">
+    <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
+  </picture>
 </div>
 
-<br />
+<!-- <br />
 
-<!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
   <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
-</div>
+</div> -->
 
 # Sherlo
 
