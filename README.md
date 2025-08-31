@@ -15,15 +15,15 @@
 
 <br />
 
-<!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
-  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
+  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div>
 
 <br />
 
+<!-- TODO: ogarnac gif pod mobile -->
 <div align="center">
-  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
 </div>
 
 # Sherlo
