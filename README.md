@@ -30,11 +30,11 @@
   </picture>
 </div> -->
 
-<br />
+<!-- <br />
 
 <div align="center">
   <img src="./1.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div>
+</div> -->
 
 <!-- <br />
 
@@ -46,6 +46,12 @@
 
 <div align="center">
   <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./new-dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div>
 
 # Sherlo
