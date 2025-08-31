@@ -42,11 +42,11 @@
   <img src="./test.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div> -->
 
-<!-- <br />
+<br />
 
 <div align="center">
-  <img src="./assets/sherlo.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="780" />
-</div> -->
+  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+</div>
 
 # Sherlo
 
