@@ -19,9 +19,9 @@
   <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div> -->
 
-<br />
+<!-- <br />
 
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./dark-mobile.gif" width="436">
     <source media="(prefers-color-scheme: dark)" srcset="./dark-desktop.gif" width="600">
@@ -30,9 +30,17 @@
   </picture>
 </div> -->
 
+<br />
+
+<div align="center">
+  <img src="./test2.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+</div>
+
+<!-- <br />
+
 <div align="center">
   <img src="./test.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
-</div>
+</div> -->
 
 <!-- <br />
 
