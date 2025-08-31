@@ -19,16 +19,16 @@
   <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div> -->
 
-<!-- <br />
+<br />
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./dark-mobile.gif" width="436">
-    <source media="(prefers-color-scheme: dark)" srcset="./dark-desktop.gif" width="600">
-    <source media="(max-width: 500px)" srcset="./assets/logo-light.svg" width="140">
-    <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
+    <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./mobile-dark.gif" width="436">
+    <source media="(max-width: 500px)" srcset="./mobile-light.gif" width="436">
+    <source media="(prefers-color-scheme: dark)" srcset="./desktop-dark.gif" width="560">
+    <img src="./desktop-light.svg" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
   </picture>
-</div> -->
+</div>
 
 <!-- <br />
 
@@ -48,7 +48,7 @@
   <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div> -->
 
-<br />
+<!-- <br />
 
 <div align="center">
   <img src="./light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="./final-dark-mobile.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="436" />
-</div>
+</div> -->
 
 # Sherlo
 
