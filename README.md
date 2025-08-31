@@ -23,7 +23,7 @@
 <br />
 
 <div align="center">
-  <img src="./dark.png" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
+  <img src="./dark-desktop.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="600" />
 </div>
 
 # Sherlo
