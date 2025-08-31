@@ -26,7 +26,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./mobile-dark.gif" width="436">
     <source media="(max-width: 500px)" srcset="./mobile-light.gif" width="436">
     <source media="(prefers-color-scheme: dark)" srcset="./desktop-dark.gif" width="560">
-    <img src="./desktop-light.svg" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
+    <img src="./desktop-light.gif" alt="Sherlo visual testing tool demo showing UI comparison and review workflow" width="560" />
   </picture>
 </div>
 
