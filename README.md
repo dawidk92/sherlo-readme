@@ -117,8 +117,6 @@ Review visual changes across devices in one web app as a team - from developers 
 
 Storybook + Sherlo = a perfect match for building and testing UI
 
-<br />
-
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
 **📚 Living Docs** – UI library created automatically while coding
