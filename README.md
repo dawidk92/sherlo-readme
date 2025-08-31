@@ -28,17 +28,17 @@
 
 Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
 
-<!-- ### How It Works
-
-1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-3. **👀 Review** – Your team reviews visual changes before they go live -->
-
 ### How It Works
 
 1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
 2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-3. **👍 Review** – Your team approves visual changes before they go live
+3. **👀 Review** – Your team reviews visual changes before they go live
+
+<!-- ### How It Works
+
+1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
+2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
+3. **👍 Review** – Your team approves visual changes before they go live -->
 
 <!-- ### How It Works
 
