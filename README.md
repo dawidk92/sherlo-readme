@@ -202,9 +202,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <p align="center">
   Made with ❤️ by <a href="https://devine.team" target="_blank">Devine</a> team
-  <br>
+  <!-- <br>
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://docs.sherlo.io">Docs</a> • 
   <a href="https://twitter.com/sherlo_io">Twitter</a> • 
-  <a href="https://discord.gg/sherlo">Discord</a>
+  <a href="https://discord.gg/sherlo">Discord</a> -->
 </p>
