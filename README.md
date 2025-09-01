@@ -149,6 +149,12 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **💖 Perfect with Sherlo** – Plug in and your Storybook turns into visual tests - zero extra effort
 
+**💖 Perfect with Sherlo** – Plug in and your components turn into visual tests - zero extra effort
+
+**💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort
+
+**💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically
+
 <br />
 
 [Learn more about Storybook →](https://github.com/storybookjs/react-native)
