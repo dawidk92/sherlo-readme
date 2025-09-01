@@ -119,22 +119,6 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Auto Docs** – Write once, get both components and documentation
 
-**💖 Perfect with Sherlo** – Documented components turn into visual tests automatically
-
-**💖 Perfect with Sherlo** – Your documented components turn into visual tests automatically across iOS & Android
-
-**💖 Perfect with Sherlo** – Your Storybook turns into visual tests automatically across iOS & Android
-
-**💖 Perfect with Sherlo** – Your Storybook turns into visual tests automatically
-
-**💖 Perfect with Sherlo** – Plug in and your Storybook becomes visual tests - zero extra effort
-
-**💖 Perfect with Sherlo** – Plug in and your Storybook turns into visual tests automatically
-
-**💖 Perfect with Sherlo** – Plug in and your Storybook turns into visual tests automatically - zero extra effort
-
-**💖 Perfect with Sherlo** – Plug in and your Storybook turns into visual tests - zero extra effort
-
 **💖 Perfect with Sherlo** – Plug in and your components turn into visual tests - zero extra effort
 
 **💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort
