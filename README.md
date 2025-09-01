@@ -139,11 +139,11 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ## Join the Community
 
-**⭐ Star this repo** to support the project!
+[Join our Discord](https://discord.com/invite/G7eqTBkWZt) • [Follow us on X](https://x.com/sherlo_io)
 
 <br />
 
-[Join our Discord](https://discord.com/invite/G7eqTBkWZt) • [Follow us on X](https://x.com/sherlo_io)
+**⭐ Star this repo** to support the project!
 
 <!-- <br />
 
@@ -162,7 +162,7 @@ Questions? contact@sherlo.io -->
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
   <a href="https://docs.sherlo.io">Docs</a> • 
-  <a href="mailto:contact@sherlo.io">contact@sherlo.io</a>
+  <a href="mailto:contact@sherlo.io">Mail</a>
 </div>
 
 <br />
