@@ -105,120 +105,23 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Auto Docs** – Write once, get both components and documentation
 
-**💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort
+<!-- **💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort -->
+
+**💖 Perfect with Sherlo** – Plug in and get iOS & Android visual tests automatically - zero extra effort
 
 <br />
-
-<!-- [Learn more about Storybook →](https://github.com/storybookjs/react-native) -->
 
 [Learn more →](https://storybook.js.org/)
 
-<!-- ---
-
-<br />
-
-<div align="center">
-  ⭐ <strong>Star this repo</strong> to support the project!
-</div>
-
-<br />
-
-<div align="center">
-  Made with ❤️ by <a href="https://devine.team">Devine</a> team
-  <br />
-  <a href="https://sherlo.io">Website</a> •
-  <a href="https://app.sherlo.io">App</a> •
-  <a href="https://app.sherlo.io/demo">Demo</a> •
-  <a href="https://docs.sherlo.io">Docs</a> •
-  <a href="https://x.com/sherlo_io">X</a> •
-  <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a> •
-  <a href="mailto:contact@sherlo.io">Mail</a>
-</div>
-
-<br /> -->
-
-<!-- <br />
-
-## Join the Community
-
-**💬 Join our [Discord](https://discord.com/invite/G7eqTBkWZt)**
-
-**📢 Follow us on [X](https://x.com/sherlo_io)**
-
-**📧 Questions?** Reach us at contact@sherlo.io
-
 <br />
 
 ## Join the Community
-
-💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 🙅‍♂️ [Follow us on X](https://x.com/sherlo_io)
-
-<br />
-
-📧 Questions? Reach us at contact@sherlo.io
-
-<br />
-
-## Join the Community
-
-💬 [**Join our Discord**](https://discord.com/invite/G7eqTBkWZt) • 📢 [**Follow us on X**](https://x.com/sherlo_io)
-
-<br />
-
-**📧 Questions?** Reach us at contact@sherlo.io
-
-<br />
-
-## Join the Community
-
-💬 Join our [**Discord**](https://discord.com/invite/G7eqTBkWZt) • 📢 Follow us on [**X**](https://x.com/sherlo_io)
-
-<br />
-
-📧 Questions? **contact@sherlo.io**
-
-<br />
-
-## Join the Community
-
-💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
-
-<br />
-
-📧 Questions? contact@sherlo.io
-
-<br />
-
-## Join the Community
-
-**⭐ Star this repo** to support the project!
-
-<br />
-
-💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
-
-📧 Questions? contact@sherlo.io -->
-
-<br />
-
-## Join the Community
-
-<!-- 💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
-
-<br />
-
-📧 Questions? contact@sherlo.io -->
 
 💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) – Get help and chat with the community
 
 📢 [Follow us on X](https://x.com/sherlo_io) – Latest updates and React Native tips
 
 📧 Questions? Reach us at contact@sherlo.io
-
-<!--
-<br />
-
-**⭐ Star this repo** to support the project! -->
 
 <br />
 
@@ -233,16 +136,12 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <div align="center">
-  <!-- <strong>⭐ Star this repo</strong> to support the project!
-  <br />
-  <br /> -->
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
   <a href="https://docs.sherlo.io">Docs</a>
-  <!-- <a href="mailto:contact@sherlo.io">Mail</a> -->
 </div>
 
 <br />
