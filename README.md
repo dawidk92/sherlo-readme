@@ -135,7 +135,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br /> -->
 
-<br />
+<!-- <br />
 
 ## Join the Community
 
@@ -195,7 +195,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
 
-📧 Questions? contact@sherlo.io
+📧 Questions? contact@sherlo.io -->
 
 <br />
 
