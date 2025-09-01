@@ -105,15 +105,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Auto Docs** – Write once, get both components and documentation
 
-<!-- **💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort -->
-
 **💖 Perfect with Sherlo** – Plug in and get iOS & Android visual tests automatically - zero extra effort
 
-<!-- <br /> -->
-
-<!-- [Learn more →](https://storybook.js.org/) -->
-
-<!-- [Storybook website](https://storybook.js.org/) • [Storybook for React Native](https://github.com/storybookjs/react-native) -->
+<br />
 
 [Storybook for React Native →](https://github.com/storybookjs/react-native)
 
