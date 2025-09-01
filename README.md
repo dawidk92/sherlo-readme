@@ -111,7 +111,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <!-- [Learn more about Storybook →](https://github.com/storybookjs/react-native) -->
 
-[Storybook website →](https://storybook.js.org/)
+[Learn more →](https://storybook.js.org/)
 
 <!-- ---
 
