@@ -147,7 +147,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-Questions? contact@sherlo.io
+Questions? Reach us at contact@sherlo.io
 
 <br />
 
@@ -164,8 +164,8 @@ Questions? contact@sherlo.io
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
-  <a href="https://docs.sherlo.io">Docs</a> • 
-  <a href="mailto:contact@sherlo.io">Mail</a>
+  <a href="https://docs.sherlo.io">Docs</a>
+  <!-- <a href="mailto:contact@sherlo.io">Mail</a> -->
 </div>
 
 <br />
