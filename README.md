@@ -111,7 +111,11 @@ Review visual changes across devices in one web app as a team - from developers 
 
 [Learn more about Storybook →](https://github.com/storybookjs/react-native)
 
+<br />
+
 ---
+
+<hr />
 
 ⭐ **Star us on GitHub** if Sherlo helps your team ship better UI!  
 📧 **Questions?** contact@sherlo.io
