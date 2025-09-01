@@ -141,6 +141,8 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **⭐ Star this repo** to support the project!
 
+<br />
+
 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • [Follow us on X](https://x.com/sherlo_io)
 
 Questions? contact@sherlo.io
