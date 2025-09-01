@@ -118,10 +118,10 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <div align="center">
-  ⭐ <strong>Star this redivo</strong> to show some love!
-</div>
-
-<div align="center">
+  ⭐ <strong>Star this repo</strong> to show some love!
+  
+  <br /><br />
+  
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
