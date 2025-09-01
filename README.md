@@ -118,7 +118,7 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <p align="center">
-  ⭐ <strong>Star this repo</strong> to show some love! | <strong>Questions?</strong> contact@sherlo.io
+  ⭐ <strong>Star this repo</strong> to show some love! | <strong>Questions?</strong> <a href="mailto:contact@sherlo.io">contact@sherlo.io</a>
 </p>
 
 <p align="center">
