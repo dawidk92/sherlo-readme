@@ -117,23 +117,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
-<!-- **📚 Auto Docs** – Components documented automatically, as you code
-
-**📚 Auto Docs** – Code once, get both UI and docs
-
-**📚 Auto Docs** – Code once, get both UI and documentation of your components -->
-
-<!-- **📚 Auto Docs** – Write components once, get interactive docs automatically -->
-
-<!-- **📚 Auto Docs** – Build components, get interactive docs automatically -->
-
 **📚 Auto Docs** – Write once, get both components and documentation
 
-<!-- **💖 Perfect with Sherlo** – Documented components automatically become visual tests across iOS & Android
-
 **💖 Perfect with Sherlo** – Documented components turn into visual tests automatically
-
-**💖 Perfect with Sherlo** – Plug in and your documented components becomes visual tests - zero extra effort -->
 
 **💖 Perfect with Sherlo** – Your documented components turn into visual tests automatically across iOS & Android
 
