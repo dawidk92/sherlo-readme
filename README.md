@@ -225,7 +225,7 @@ Review visual changes across devices in one web app as a team - from developers 
 ---
 
 <div align="center">
-  <strong>⭐ Star this repo</strong> to support the project!
+  <strong>⭐ Star this repo to support the project!</strong>
 </div>
 
 ---
@@ -236,7 +236,7 @@ Review visual changes across devices in one web app as a team - from developers 
   <!-- <strong>⭐ Star this repo</strong> to support the project!
   <br />
   <br /> -->
-  <strong>Made with ❤️ by <a href="https://devine.team">Devine</a> team</strong>
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
