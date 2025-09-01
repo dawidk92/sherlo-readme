@@ -113,7 +113,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <!-- [Learn more →](https://storybook.js.org/) -->
 
-[Storybook website](https://storybook.js.org/) • [Storybook for React Native](https://github.com/storybookjs/react-native)
+<!-- [Storybook website](https://storybook.js.org/) • [Storybook for React Native](https://github.com/storybookjs/react-native) -->
+
+[Storybook for React Native →](https://github.com/storybookjs/react-native)
 
 <br />
 
