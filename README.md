@@ -31,25 +31,8 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 ### How It Works
 
 1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
-2. **🔍 Detect** – Sherlo automatically detects visual changes by comparing screenshots against previous versions
+2. **🔍 Detect** – Visual changes are automatically detected by comparison with previous versions
 3. **👍 Review** – Your team reviews detected changes before they go live
-
-<!-- 1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-3. **👍 Review** – Your team reviews visual changes before they go live -->
-
-<!-- ### How It Works
-
-1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-3. **👍 Review** – Your team approves visual changes before they go live -->
-
-<!-- ### How It Works
-
-1. **📸 Capture** – Sherlo runs your Storybook stories on iOS and Android in the cloud
-2. **🔍 Compare** – Screenshots are compared against previous versions to detect visual changes
-3. **👀 Review** – Your team reviews visual changes before they go live
-4. **🚢 Ship** – Deploy with confidence knowing your UI is rock-solid -->
 
 ### Key Benefits
 
