@@ -187,14 +187,26 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
+## Join the Community
+
+**⭐ Star this repo** to support the project!
+
+<br />
+
+💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
+
+📧 Questions? contact@sherlo.io
+
+<br />
+
 ---
 
 <br />
 
 <div align="center">
-  <strong>⭐ Star this repo</strong> to support the project!
+  <!-- <strong>⭐ Star this repo</strong> to support the project!
   <br />
-  <br />
+  <br /> -->
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
