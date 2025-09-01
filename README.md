@@ -134,3 +134,5 @@ Review visual changes across devices in one web app as a team - from developers 
   <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a> • 
   <a href="mailto:contact@sherlo.io">Mail</a>
 </div>
+
+<br />
