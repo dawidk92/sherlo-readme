@@ -121,8 +121,6 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
 
-**📚 Living Docs** – UI library created automatically while coding
-
 **📚 Auto Docs** – Components documented automatically, as you code
 
 **💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
