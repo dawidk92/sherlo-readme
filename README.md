@@ -91,7 +91,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-**🚀 [Try the Demo](https://app.sherlo.io/demo)** to see these features in action
+**🚀 [Go to Demo](https://app.sherlo.io/demo)** to see these features in action
 
 <br />
 
