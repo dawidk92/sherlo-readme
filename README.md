@@ -109,7 +109,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **💖 Perfect with Sherlo** – Plug in and get iOS & Android visual tests automatically - zero extra effort
 
-<br />
+<!-- <br /> -->
 
 <!-- [Learn more →](https://storybook.js.org/) -->
 
