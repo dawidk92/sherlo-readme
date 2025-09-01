@@ -94,7 +94,7 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <div align="center">
-  <img src="./assets/app.webp" alt="Sherlo app preview" />
+  <img src="./assets/app.png" alt="Sherlo app preview" />
 </div>
 
 <br />
