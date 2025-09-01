@@ -113,7 +113,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
----
+<!-- ---
 
 <br />
 
@@ -126,13 +126,37 @@ Review visual changes across devices in one web app as a team - from developers 
 <div align="center">
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
+  <a href="https://sherlo.io">Website</a> •
+  <a href="https://app.sherlo.io">App</a> •
+  <a href="https://app.sherlo.io/demo">Demo</a> •
+  <a href="https://docs.sherlo.io">Docs</a> •
+  <a href="https://x.com/sherlo_io">X</a> •
+  <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a> •
+  <a href="mailto:contact@sherlo.io">Mail</a>
+</div>
+
+<br /> -->
+
+## Join the Community
+
+**⭐ Star this repo** to support the project!  
+**💬 Join our [Discord](https://discord.com/invite/G7eqTBkWZt)** – Get help from 500+ React Native developers  
+**🐦 Follow us on [X](https://x.com/sherlo_io)** – Latest updates and React Native tips  
+**📧 Questions?** Reach us at contact@sherlo.io
+
+<br />
+
+<hr />
+
+<br />
+
+<div align="center">
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team
+  <br />
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
-  <a href="https://docs.sherlo.io">Docs</a> • 
-  <a href="https://x.com/sherlo_io">X</a> • 
-  <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a> • 
-  <a href="mailto:contact@sherlo.io">Mail</a>
+  <a href="https://docs.sherlo.io">Docs</a>
 </div>
 
 <br />
