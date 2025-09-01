@@ -123,6 +123,8 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Living Docs** – UI library created automatically while coding
 
+**📚 Auto Docs** – Components documented automatically, as you code
+
 **💖 Perfect with Sherlo** – Your existing stories automatically become visual tests across iOS & Android
 
 **💖 Perfect with Sherlo** – Plug in and your UI library becomes visual tests — zero extra effort
