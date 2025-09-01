@@ -197,13 +197,13 @@ Review visual changes across devices in one web app as a team - from developers 
 
 📧 Questions? contact@sherlo.io -->
 
-<br />
+<!-- <br />
 
 ## Join the Community
 
 💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) • 📢 [Follow us on X](https://x.com/sherlo_io)
 
-📧 Questions? contact@sherlo.io
+📧 Questions? contact@sherlo.io -->
 
 <!--
 <br />
