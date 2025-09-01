@@ -209,9 +209,9 @@ Review visual changes across devices in one web app as a team - from developers 
 
 📧 Questions? contact@sherlo.io -->
 
-💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) – Community support and discussions
+💬 [Join our Discord](https://discord.com/invite/G7eqTBkWZt) – Get help and chat with the community
 
-📢 [Follow us on X](https://x.com/sherlo_io) – Latest updates and insights
+📢 [Follow us on X](https://x.com/sherlo_io) – Latest updates and React Native tips
 
 📧 Questions? contact@sherlo.io
 
