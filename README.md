@@ -117,8 +117,8 @@ Review visual changes across devices in one web app as a team - from developers 
 ## Links
 
 **🚀 [Try Demo](https://app.sherlo.io/demo)** – See Sherlo in action  
-**📖 [Documentation](https://docs.sherlo.io/)** – Setup guides and API reference  
-**🌐 [Main Website](https://sherlo.io/)** – Learn more about Sherlo  
+**📖 [Documentation](https://docs.sherlo.io)** – Setup guides and API reference  
+**🌐 [Main Website](https://sherlo.io)** – Learn more about Sherlo  
 **💬 [Join Discord](https://discord.com/invite/G7eqTBkWZt)** – Get help from the community  
 **🐦 [Follow on X](https://x.com/sherlo_io)** – Latest updates and tips  
 **⭐ [Star on GitHub](https://github.com/sherlo-io/sherlo)** – Support the project
@@ -132,8 +132,8 @@ Review visual changes across devices in one web app as a team - from developers 
 ### 🚀 Get Started
 
 - **[Try Demo](https://app.sherlo.io/demo)** – See visual testing in action
-- **[Documentation](https://docs.sherlo.io/)** – Complete setup guide
-- **[Main Website](https://sherlo.io/)** – Pricing and features
+- **[Documentation](https://docs.sherlo.io)** – Complete setup guide
+- **[Main Website](https://sherlo.io)** – Pricing and features
 
 ### 🤝 Community
 
@@ -152,8 +152,8 @@ Review visual changes across devices in one web app as a team - from developers 
 | Resource                                             | Description                  | Action     |
 | ---------------------------------------------------- | ---------------------------- | ---------- |
 | **[Demo](https://app.sherlo.io/demo)**               | See Sherlo in action         | 🚀 Try now |
-| **[Docs](https://docs.sherlo.io/)**                  | Setup guides & API reference | 📖 Read    |
-| **[Website](https://sherlo.io/)**                    | Pricing and features         | 🌐 Visit   |
+| **[Docs](https://docs.sherlo.io)**                   | Setup guides & API reference | 📖 Read    |
+| **[Website](https://sherlo.io)**                     | Pricing and features         | 🌐 Visit   |
 | **[Discord](https://discord.com/invite/G7eqTBkWZt)** | Community of 500+ developers | 💬 Join    |
 | **[X/Twitter](https://x.com/sherlo_io)**             | Latest updates and tips      | 🐦 Follow  |
 | **[GitHub](https://github.com/sherlo-io/sherlo)**    | Source code and issues       | ⭐ Star    |
@@ -165,7 +165,7 @@ Review visual changes across devices in one web app as a team - from developers 
 ## Links
 
 **🚀 [Try Demo](https://app.sherlo.io/demo)** – See visual testing in action  
-**📖 [Documentation](https://docs.sherlo.io/)** – Complete setup guide  
+**📖 [Documentation](https://docs.sherlo.io)** – Complete setup guide  
 **🐦 [Follow us on X](https://x.com/sherlo_io)** – React Native tips and updates
 
 **⭐ Star this repo** if Sherlo helps your team ship better UI!  
@@ -177,7 +177,7 @@ Review visual changes across devices in one web app as a team - from developers 
 ## Links
 
 **[🚀 Demo](https://app.sherlo.io/demo)** – See it in action  
-**[📖 Docs](https://docs.sherlo.io/)** – Setup guides & API reference  
+**[📖 Docs](https://docs.sherlo.io)** – Setup guides & API reference  
 **[🐦 Twitter](https://x.com/sherlo_io)** – Updates and React Native tips
 
 ---
@@ -191,7 +191,7 @@ Review visual changes across devices in one web app as a team - from developers 
 ## Links
 
 - **[Demo](https://app.sherlo.io/demo)** – Try Sherlo in action
-- **[Documentation](https://docs.sherlo.io/)** – Setup guides
+- **[Documentation](https://docs.sherlo.io)** – Setup guides
 - **[X/Twitter](https://x.com/sherlo_io)** – Updates & tips
 
 ⭐ **Star us on GitHub** if this helps your team!  
@@ -204,7 +204,8 @@ Review visual changes across devices in one web app as a team - from developers 
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
+  <a href="https://app.sherlo.io">App</a> • 
   <a href="https://docs.sherlo.io">Docs</a> • 
-  <a href="https://twitter.com/sherlo_io">Twitter</a> • 
-  <a href="https://discord.gg/sherlo">Discord</a>
+  <a href="https://x.com/sherlo_io">X</a> • 
+  <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a>
 </p>
