@@ -106,6 +106,16 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Auto Docs** – Write once, get both components and documentation
 
+**💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - no extra effort
+
+<br />
+
+## New to Storybook?
+
+**🏗️ Build in Isolation** – No need to run the full app or navigate through screens
+
+**📚 Auto Docs** – Write once, get both components and documentation
+
 **💖 Perfect with Sherlo** – Plug in and your components turn into visual tests automatically - zero extra effort
 
 <br />
