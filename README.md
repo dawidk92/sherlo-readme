@@ -213,7 +213,7 @@ Review visual changes across devices in one web app as a team - from developers 
 
 📢 [Follow us on X](https://x.com/sherlo_io) – Latest updates and React Native tips
 
-📧 Questions? contact@sherlo.io
+📧 Questions? Reach us at contact@sherlo.io
 
 <!--
 <br />
