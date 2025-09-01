@@ -31,29 +31,12 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 ### How It Works
 
 1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android devices in the cloud
-2. **🔍 Detect** – All visual changes are automatically detected by comparing with previous screenshots
-3. **👍 Review** – Your team reviews detected changes before they go live
-
-### Key Benefits
-
-- **🖼️ Ensure Pixel Perfection** – Your UI, exactly as designed
-- **✅ Ship with Confidence** – Merge with peace of mind - see exactly what changed
-- **⏱️ Save Manual QA Hours** – Forget device-by-device checks - every UI update caught automatically
-- **🤝 Team-Friendly Review** – One web app for your whole team
-- **📱 Real Mobile Testing** – Native iOS & Android testing - not web-based solutions like React Native Web
-- **☁️ Visual Testing Cloud** – You build, we test - on infrastructure built specifically for mobile UI testing
-
-<br />
-
-# Sherlo
-
-Test your UI on iOS and Android automatically in the cloud. Built for React Native Storybook.
-
-### How It Works
-
-1. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
-2. **🔍 Detect** – All visual changes are automatically detected by comparison with previous versions
-3. **👍 Review** – Your team reviews detected changes before they go live
+2. **📸 Capture** – Sherlo takes screenshots of your UI on iOS and Android in the cloud
+3. **🔍 Detect** – All visual changes are automatically detected by comparing with previous versions
+4. **🔍 Detect** – All visual changes are automatically detected by comparing with previous screenshots
+5. **🔍 Detect** – All visual changes are automatically detected by comparison with previous versions
+6. **🔍 Detect** – All visual changes are automatically detected by comparison with previous screenshots
+7. **👍 Review** – Your team reviews detected changes before they go live
 
 ### Key Benefits
 
