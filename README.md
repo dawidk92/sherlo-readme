@@ -156,7 +156,7 @@ Questions? contact@sherlo.io
 <br />
 
 <div align="center">
-  **⭐ Star this repo** to support the project!
+  <strong>⭐ Star this repo</strong> to support the project!
   <br />
   <br />
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
