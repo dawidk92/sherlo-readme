@@ -117,13 +117,12 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-<!-- <p align="center">
+<p align="center">
   ⭐ <strong>Star this repo</strong> to show some love!
-</p> -->
+</p>
 
 <p align="center">
-  <!-- Made with ❤️ by <a href="https://devine.team">Devine</a> team -->
-  ⭐ <strong>Star this repo</strong> to show some love!
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
