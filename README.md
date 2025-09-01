@@ -113,15 +113,16 @@ Review visual changes across devices in one web app as a team - from developers 
 
 ---
 
-⭐ **Star us on GitHub** if Sherlo helps your team ship better UI!  
-📧 **Questions?** contact@sherlo.io
-
-<br />
+<p align="center">
+  ⭐ <strong>Star this repo</strong> to show some love!<br/>
+  📧 <strong>Questions?</strong> contact@sherlo.io
+</p>
 
 <p align="center">
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
   <br />
   <a href="https://sherlo.io">Website</a> • 
+  <a href="https://app.sherlo.io/demo">Demo</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://docs.sherlo.io">Docs</a> • 
   <a href="https://x.com/sherlo_io">X</a> • 
