@@ -123,7 +123,11 @@ Review visual changes across devices in one web app as a team - from developers 
 
 **📚 Auto Docs** – Code once, get both UI and documentation of your components -->
 
-**📚 Auto Docs** – Write components once, get interactive docs automatically
+<!-- **📚 Auto Docs** – Write components once, get interactive docs automatically -->
+
+<!-- **📚 Auto Docs** – Build components, get interactive docs automatically -->
+
+**📚 Auto Docs** – Write once, get both components and documentation
 
 <!-- **💖 Perfect with Sherlo** – Documented components automatically become visual tests across iOS & Android
 
