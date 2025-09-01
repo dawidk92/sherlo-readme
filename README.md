@@ -93,9 +93,8 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-<!-- TODO: opakowac w frame z "przegladarki" jak na LP -->
 <div align="center">
-  <img src="./assets/app.webp" alt="Sherlo - podgląd aplikacji" />
+  <img src="./assets/app.webp" alt="Sherlo app preview" />
 </div>
 
 <br />
@@ -111,6 +110,8 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 [Learn more about Storybook →](https://github.com/storybookjs/react-native)
+
+===== END =====
 
 <br />
 
@@ -199,6 +200,34 @@ Review visual changes across devices in one web app as a team - from developers 
 📧 **Contact:** contact@sherlo.io
 
 ---
+
+<p align="center">
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team
+  <br />
+  <a href="https://sherlo.io">Website</a> • 
+  <a href="https://app.sherlo.io">App</a> • 
+  <a href="https://docs.sherlo.io">Docs</a> • 
+  <a href="https://x.com/sherlo_io">X</a> • 
+  <a href="https://discord.com/invite/G7eqTBkWZt">Discord</a>
+</p>
+
+## Resources
+
+**[🚀 Demo](https://app.sherlo.io/demo)** – **[📖 Docs](https://docs.sherlo.io)** – **[🐦 Twitter](https://x.com/sherlo_io)**
+
+---
+
+⭐ **Star this repo** if Sherlo helps your team!  
+📧 **Got questions?** contact@sherlo.io
+
+<p align="center">
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team
+</p>
+
+---
+
+⭐ **Star us on GitHub** if Sherlo helps your team ship better UI!  
+📧 **Questions?** contact@sherlo.io
 
 <p align="center">
   Made with ❤️ by <a href="https://devine.team">Devine</a> team
