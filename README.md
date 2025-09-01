@@ -236,9 +236,7 @@ Review visual changes across devices in one web app as a team - from developers 
   <!-- <strong>⭐ Star this repo</strong> to support the project!
   <br />
   <br /> -->
-  Made with ❤️ by <a href="https://devine.team">Devine</a> team
-  <br />
-  <a href="https://sherlo.io">Website</a> • 
+  Made with ❤️ by <a href="https://devine.team">Devine</a> team | <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
   <a href="https://docs.sherlo.io">Docs</a>
