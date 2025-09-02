@@ -91,13 +91,13 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
-**🚀 [Go to Demo](https://app.sherlo.io/demo)** to see these features in action
-
-<br />
-
 <div align="center">
   <img src="./assets/app.png" alt="Sherlo app preview" />
 </div>
+
+<br />
+
+🚀 [Open Demo →](https://app.sherlo.io/demo)
 
 <br />
 
