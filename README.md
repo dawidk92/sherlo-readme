@@ -130,7 +130,7 @@ Review visual changes across devices in one web app as a team - from developers 
 ---
 
 <div align="center">
-  <strong>⭐ Star this repo</strong><br />to support the project!
+  <strong>⭐ Star this repo</strong><br />to support the project
 </div>
 
 ---
