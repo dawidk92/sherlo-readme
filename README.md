@@ -63,7 +63,7 @@ npx sherlo@latest init
 ]
 ```
 
-#### 3) Run your first test
+#### 3) Run visual tests
 
 ```bash
 npx sherlo test
@@ -73,7 +73,7 @@ npx sherlo test
 
 <br />
 
-[Full documentation →](https://docs.sherlo.io/setup/integration)
+[Full documentation →](https://docs.sherlo.io)
 
 <br />
 
@@ -98,7 +98,7 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <div align="center">
-  <img src="./assets/app.png" alt="Sherlo app preview" />
+  <img src="./assets/app.png" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
 </div>
 
 <br />
