@@ -53,7 +53,7 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 npx sherlo@latest init
 ```
 
-#### 2)<sup>\*</sup> Customize your [test devices](https://docs.sherlo.io/setup/config#devices) _(optional)_
+#### 2)<sup>\*</sup> Customize your [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
 
 <!-- prettier-ignore -->
 ```json
@@ -73,7 +73,7 @@ npx sherlo test
 
 <br />
 
-[Full documentation →](https://docs.sherlo.io)
+[Full documentation →](https://sherlo.io/docs)
 
 <br />
 
@@ -143,7 +143,7 @@ Review visual changes across devices in one web app as a team - from developers 
   <a href="https://sherlo.io">Website</a> • 
   <a href="https://app.sherlo.io">App</a> • 
   <a href="https://app.sherlo.io/demo">Demo</a> • 
-  <a href="https://docs.sherlo.io">Docs</a>
+  <a href="https://sherlo.io/docs">Docs</a>
 </div>
 
 <br />
