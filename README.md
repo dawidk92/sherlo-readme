@@ -69,8 +69,8 @@ npx sherlo@latest init
 ```json
 [
   { "id": "iphone.15", "osVersion": "17" },
-  { "id": "ipad.pro.13.m4", "osVersion": "17", "osTheme": "dark" },
-  { "id": "pixel.7.pro", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
+  { "id": "ipad.10.gen", "osVersion": "17", "osTheme": "dark" },
+  { "id": "pixel.7", "osVersion": "13", "osLocale": "es_ES", "osFontScale": "+2" }
 ]
 ```
 
