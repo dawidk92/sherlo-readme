@@ -53,7 +53,7 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 npx sherlo@latest init
 ```
 
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
+#### 2)<sup>\*</sup> Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
 
 <!-- prettier-ignore -->
 ```json
@@ -88,7 +88,7 @@ npx sherlo test
 npx sherlo@latest init
 ```
 
-#### 2)<sup>\*</sup> Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
+#### 2)<sup>\*</sup> Customize test devices _(optional)_
 
 <!-- prettier-ignore -->
 ```json
