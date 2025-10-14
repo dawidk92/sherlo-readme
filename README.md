@@ -61,11 +61,11 @@ npx sherlo test
 
 <br />
 
-That's it! 🎉
+**That's it!** 🎉
 
 <br />
 
-Optionally you can customize your [test devices](https://sherlo.io/docs/setup/config#devices)
+_Optionally you can customize your [test devices](https://sherlo.io/docs/setup/config#devices)_
 
 <!-- prettier-ignore -->
 ```json
