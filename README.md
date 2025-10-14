@@ -53,7 +53,18 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 npx sherlo@latest init
 ```
 
-#### 2) Run visual tests
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices)
+
+<!-- prettier-ignore -->
+```json
+[
+  { "id": "pixel.7", "osVersion": "13" },
+  { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
+  { "id": "ipad.10.gen", "osVersion": "17", "osLocale": "en_GB", "osFontScale": "+2" }
+]
+```
+
+#### 3) Run visual tests
 
 ```bash
 npx sherlo test
@@ -64,9 +75,20 @@ npx sherlo test
 🎉 **That's it!** Your visual testing is ready.
 
 <br />
+
+[Full documentation →](https://sherlo.io/docs)
+
 <br />
 
-_Optionally you can customize your [test devices](https://sherlo.io/docs/setup/config#devices)_
+## Quick Start
+
+**1) Install Sherlo**
+
+```bash
+npx sherlo@latest init
+```
+
+**2) Customize [test devices](https://sherlo.io/docs/setup/config#devices)** _(optional)_
 
 <!-- prettier-ignore -->
 ```json
@@ -76,6 +98,16 @@ _Optionally you can customize your [test devices](https://sherlo.io/docs/setup/c
   { "id": "ipad.10.gen", "osVersion": "17", "osLocale": "en_GB", "osFontScale": "+2" }
 ]
 ```
+
+**3) Run visual tests**
+
+```bash
+npx sherlo test
+```
+
+<br />
+
+🎉 **That's it!** Your visual testing is ready.
 
 <br />
 
