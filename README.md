@@ -53,29 +53,24 @@ Test your UI on iOS and Android automatically in the cloud. Built for React Nati
 npx sherlo@latest init
 ```
 
-#### 2)<sup>\*</sup> Customize your [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
-
 #### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <em>(optional)</em>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <mark>(optional)</mark>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <small>(optional)</small>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <del>(optional)</del>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <ins>(optional)</ins>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <sub>(optional)</sub>
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <sup>(optional)</sup>
 
 <!-- prettier-ignore -->
 ```json
 [
   { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
   { "id": "pixel.tablet", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
+]
+```
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
+
+<!-- prettier-ignore -->
+```json
+[
+  { "id": "iphone.15", "osVersion": "17" },
+  { "id": "ipad.pro.13.m4", "osVersion": "17", "osTheme": "dark" },
+  { "id": "pixel.7.pro", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
 ]
 ```
 
