@@ -80,41 +80,6 @@ npx sherlo test
 
 <br />
 
-## Quick Start
-
-#### 1) Install Sherlo
-
-```bash
-npx sherlo@latest init
-```
-
-#### 2)<sup>\*</sup> Customize test devices _(optional)_
-
-<!-- prettier-ignore -->
-```json
-[
-  { "id": "pixel.7", "osVersion": "13" },
-  { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
-  { "id": "ipad.10.gen", "osVersion": "17", "osLocale": "en_GB", "osFontScale": "+2" }
-]
-```
-
-#### 3) Run visual tests
-
-```bash
-npx sherlo test
-```
-
-<br />
-
-🎉 **That's it!** Your visual testing is ready.
-
-<br />
-
-[Full documentation →](https://sherlo.io/docs)
-
-<br />
-
 ## Web App + Demo
 
 Review visual changes across devices in one web app as a team - from developers to designers.
