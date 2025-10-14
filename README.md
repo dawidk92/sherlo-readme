@@ -58,41 +58,9 @@ npx sherlo@latest init
 <!-- prettier-ignore -->
 ```json
 [
-  { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
-  { "id": "pixel.tablet", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+1" }
-]
-```
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
-
-<!-- prettier-ignore -->
-```json
-[
-  { "id": "iphone.15", "osVersion": "17" },
-  { "id": "ipad.10.gen", "osVersion": "17", "osTheme": "dark" },
-  { "id": "pixel.7", "osVersion": "13", "osLocale": "en_GB", "osFontScale": "+2" }
-]
-```
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
-
-<!-- prettier-ignore -->
-```json
-[
   { "id": "pixel.7", "osVersion": "13" },
   { "id": "iphone.15", "osVersion": "17", "osTheme": "dark" },
   { "id": "ipad.10.gen", "osVersion": "17", "osLocale": "en_GB", "osFontScale": "+2" }
-]
-```
-
-#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
-
-<!-- prettier-ignore -->
-```json
-[
-  { "id": "pixel.7", "osVersion": "13" },
-  { "id": "iphone.15", "osVersion": "17", "osFontScale": "+2" },
-  { "id": "ipad.10.gen", "osVersion": "17",  "osTheme": "dark", "osLocale": "en_GB" }
 ]
 ```
 
@@ -101,6 +69,8 @@ npx sherlo@latest init
 ```bash
 npx sherlo test
 ```
+
+<br />
 
 🎉 **That's it!** Your visual testing is ready.
 
