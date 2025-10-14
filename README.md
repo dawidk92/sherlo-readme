@@ -59,8 +59,11 @@ npx sherlo@latest init
 npx sherlo test
 ```
 
+<br />
+
 🎉 **That's it!** Your visual testing is ready.
 
+<br />
 <br />
 
 _Optionally you can customize your [test devices](https://sherlo.io/docs/setup/config#devices)_
