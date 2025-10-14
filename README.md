@@ -72,7 +72,11 @@ npx sherlo test
 
 <br />
 
-**That's it!** 🎉 [Full documentation →](https://sherlo.io/docs)
+That's it! 🎉
+
+<br />
+
+[Full documentation →](https://sherlo.io/docs)
 
 <br />
 
