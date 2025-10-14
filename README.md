@@ -85,6 +85,17 @@ npx sherlo@latest init
 ]
 ```
 
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
+
+<!-- prettier-ignore -->
+```json
+[
+  { "id": "pixel.7", "osVersion": "13" },
+  { "id": "iphone.15", "osVersion": "17", "osFontScale": "+2" },
+  { "id": "ipad.10.gen", "osVersion": "17",  "osTheme": "dark", "osLocale": "en_GB" }
+]
+```
+
 #### 3) Run visual tests
 
 ```bash
