@@ -59,9 +59,7 @@ npx sherlo@latest init
 npx sherlo test
 ```
 
-<br />
-
-**That's it!** 🎉
+🎉 **That's it!** Your visual testing is ready.
 
 <br />
 
