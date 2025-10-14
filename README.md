@@ -55,6 +55,22 @@ npx sherlo@latest init
 
 #### 2)<sup>\*</sup> Customize your [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
 
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) _(optional)_
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <em>(optional)</em>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <mark>(optional)</mark>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <small>(optional)</small>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <del>(optional)</del>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <ins>(optional)</ins>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <sub>(optional)</sub>
+
+#### 2) Customize [test devices](https://sherlo.io/docs/setup/config#devices) <sup>(optional)</sup>
+
 <!-- prettier-ignore -->
 ```json
 [
