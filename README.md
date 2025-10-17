@@ -6,7 +6,7 @@
       <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/logo-dark.svg" width="140">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="176">
       <source media="(max-width: 500px)" srcset="./assets/logo-light.svg" width="140">
-      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" fetchpriority="high" />
     </picture>
   </a>
 </p>
