@@ -112,6 +112,12 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <br />
 
+<div align="center">
+  <img src="./assets/sherlo2.png" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
+</div>
+
+<br />
+
 ## New to Storybook?
 
 **🏗️ Build in Isolation** – No need to run the full app or navigate through screens
