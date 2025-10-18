@@ -6,7 +6,7 @@
       <source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="./assets/logo-dark.svg" width="140">
       <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg" width="176">
       <source media="(max-width: 500px)" srcset="./assets/logo-light.svg" width="140">
-      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" fetchpriority="high" />
+      <img src="./assets/logo-light.svg" alt="Sherlo logo" width="176" />
     </picture>
   </a>
 </p>
@@ -108,6 +108,12 @@ Review visual changes across devices in one web app as a team - from developers 
 
 <div align="center">
   <img src="./assets/github.png" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/FINAL_COMP_150.gif" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
 </div>
 
 <br />
