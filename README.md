@@ -113,7 +113,7 @@ Review visual changes across devices in one web app as a team - from developers 
 <br />
 
 <div align="center">
-  <img src="./assets/FINAL_COMP_35.gif" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
+  <img src="./assets/FINAL_35.gif" alt="Sherlo web app interface showing visual diff comparison between mobile app screenshots with highlighted changes, team feedback comments, and code inspector panel" />
 </div>
 
 <br />
